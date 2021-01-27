@@ -1,0 +1,1771 @@
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The text.latex.preview rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The mathtext.fallback_to_cm rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: Support for setting the 'mathtext.fallback_to_cm' rcParam is deprecated since 3.3 and will be removed two minor releases later; use 'mathtext.fallback : 'cm' instead.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The validate_bool_maybe_none function was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The savefig.jpeg_quality rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The keymap.all_axes rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The animation.avconv_path rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The animation.avconv_args rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+FieldValues_halo1e11_run1_00400_all_('all', 'particle_mass') ... ERROR
+FieldValues_halo1e11_run1_00400_all_('all', 'particle_ones') ... ERROR
+FieldValues_halo1e11_run1_00400_all_('all', 'particle_velocity_x') ... ERROR
+FieldValues_halo1e11_run1_00400_all_('all', 'particle_velocity_y') ... ERROR
+FieldValues_halo1e11_run1_00400_all_('all', 'particle_velocity_z') ... ERROR
+FieldValues_halo1e11_run1_00400_sphere_('c', (0_1, 'unitary'))_('all', 'particle_mass') ... ERROR
+FieldValues_halo1e11_run1_00400_sphere_('c', (0_1, 'unitary'))_('all', 'particle_ones') ... ERROR
+FieldValues_halo1e11_run1_00400_sphere_('c', (0_1, 'unitary'))_('all', 'particle_velocity_x') ... ERROR
+FieldValues_halo1e11_run1_00400_sphere_('c', (0_1, 'unitary'))_('all', 'particle_velocity_y') ... ERROR
+FieldValues_halo1e11_run1_00400_sphere_('c', (0_1, 'unitary'))_('all', 'particle_velocity_z') ... ERROR
+FieldValues_agora_1e11_00400_all_('all', 'particle_mass') ... ERROR
+FieldValues_agora_1e11_00400_all_('all', 'particle_ones') ... ERROR
+FieldValues_agora_1e11_00400_all_('all', 'particle_velocity_x') ... ERROR
+FieldValues_agora_1e11_00400_all_('all', 'particle_velocity_y') ... ERROR
+FieldValues_agora_1e11_00400_all_('all', 'particle_velocity_z') ... ERROR
+FieldValues_agora_1e11_00400_sphere_('c', (0_1, 'unitary'))_('all', 'particle_mass') ... ERROR
+FieldValues_agora_1e11_00400_sphere_('c', (0_1, 'unitary'))_('all', 'particle_ones') ... ERROR
+FieldValues_agora_1e11_00400_sphere_('c', (0_1, 'unitary'))_('all', 'particle_velocity_x') ... ERROR
+FieldValues_agora_1e11_00400_sphere_('c', (0_1, 'unitary'))_('all', 'particle_velocity_y') ... ERROR
+FieldValues_agora_1e11_00400_sphere_('c', (0_1, 'unitary'))_('all', 'particle_velocity_z') ... ERROR
+Failure: ValueError (operands could not be broadcast together with shapes (1029501,3) (8003488,3) ) ... ERROR
+PixelizedProjectionValues_galaxy_00300_all_('gas', 'density')_0_None ... ERROR
+PixelizedProjectionValues_galaxy_00300_all_('gas', 'density')_1_None ... ERROR
+PixelizedProjectionValues_galaxy_00300_all_('gas', 'density')_2_None ... ERROR
+FieldValues_galaxy_00300_all_('gas', 'density') ... ERROR
+PixelizedProjectionValues_galaxy_00300_all_('gas', 'temperature')_0_('gas', 'density') ... ERROR
+PixelizedProjectionValues_galaxy_00300_all_('gas', 'temperature')_1_('gas', 'density') ... ERROR
+PixelizedProjectionValues_galaxy_00300_all_('gas', 'temperature')_2_('gas', 'density') ... ERROR
+FieldValues_galaxy_00300_all_('gas', 'temperature') ... ERROR
+PixelizedProjectionValues_galaxy_00300_all_('gas', 'velocity_magnitude')_0_None ... ERROR
+PixelizedProjectionValues_galaxy_00300_all_('gas', 'velocity_magnitude')_1_None ... ERROR
+PixelizedProjectionValues_galaxy_00300_all_('gas', 'velocity_magnitude')_2_None ... ERROR
+FieldValues_galaxy_00300_all_('gas', 'velocity_magnitude') ... ERROR
+PixelizedProjectionValues_galaxy_00300_all_('gas', 'Fe_fraction')_0_None ... ERROR
+PixelizedProjectionValues_galaxy_00300_all_('gas', 'Fe_fraction')_1_None ... ERROR
+PixelizedProjectionValues_galaxy_00300_all_('gas', 'Fe_fraction')_2_None ... ERROR
+FieldValues_galaxy_00300_all_('gas', 'Fe_fraction') ... ERROR
+PixelizedProjectionValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('gas', 'density')_0_None ... ERROR
+PixelizedProjectionValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('gas', 'density')_1_None ... ERROR
+PixelizedProjectionValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('gas', 'density')_2_None ... ERROR
+FieldValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('gas', 'density') ... ERROR
+PixelizedProjectionValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('gas', 'temperature')_0_('gas', 'density') ... ERROR
+PixelizedProjectionValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('gas', 'temperature')_1_('gas', 'density') ... ERROR
+PixelizedProjectionValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('gas', 'temperature')_2_('gas', 'density') ... ERROR
+FieldValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('gas', 'temperature') ... ERROR
+PixelizedProjectionValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('gas', 'velocity_magnitude')_0_None ... ERROR
+PixelizedProjectionValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('gas', 'velocity_magnitude')_1_None ... ERROR
+PixelizedProjectionValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('gas', 'velocity_magnitude')_2_None ... ERROR
+FieldValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('gas', 'velocity_magnitude') ... ERROR
+PixelizedProjectionValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('gas', 'Fe_fraction')_0_None ... ERROR
+PixelizedProjectionValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('gas', 'Fe_fraction')_1_None ... ERROR
+PixelizedProjectionValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('gas', 'Fe_fraction')_2_None ... ERROR
+FieldValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('gas', 'Fe_fraction') ... ERROR
+FieldValues_galaxy_00300_all_('Stars', 'Metals') ... ERROR
+FieldValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('Stars', 'Metals') ... ERROR
+yt.frontends.tipsy.tests.test_outputs_nose.test_TipsyDataset ... ok
+yt.frontends.tipsy.tests.test_outputs_nose.test_tipsy_index ... ok
+
+======================================================================
+ERROR: FieldValues_halo1e11_run1_00400_all_('all', 'particle_mass')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: FieldValues_halo1e11_run1_00400_all_('all', 'particle_ones')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: FieldValues_halo1e11_run1_00400_all_('all', 'particle_velocity_x')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: FieldValues_halo1e11_run1_00400_all_('all', 'particle_velocity_y')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: FieldValues_halo1e11_run1_00400_all_('all', 'particle_velocity_z')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: FieldValues_halo1e11_run1_00400_sphere_('c', (0_1, 'unitary'))_('all', 'particle_mass')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: FieldValues_halo1e11_run1_00400_sphere_('c', (0_1, 'unitary'))_('all', 'particle_ones')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: FieldValues_halo1e11_run1_00400_sphere_('c', (0_1, 'unitary'))_('all', 'particle_velocity_x')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: FieldValues_halo1e11_run1_00400_sphere_('c', (0_1, 'unitary'))_('all', 'particle_velocity_y')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: FieldValues_halo1e11_run1_00400_sphere_('c', (0_1, 'unitary'))_('all', 'particle_velocity_z')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: FieldValues_agora_1e11_00400_all_('all', 'particle_mass')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: FieldValues_agora_1e11_00400_all_('all', 'particle_ones')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: FieldValues_agora_1e11_00400_all_('all', 'particle_velocity_x')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: FieldValues_agora_1e11_00400_all_('all', 'particle_velocity_y')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: FieldValues_agora_1e11_00400_all_('all', 'particle_velocity_z')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: FieldValues_agora_1e11_00400_sphere_('c', (0_1, 'unitary'))_('all', 'particle_mass')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: FieldValues_agora_1e11_00400_sphere_('c', (0_1, 'unitary'))_('all', 'particle_ones')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: FieldValues_agora_1e11_00400_sphere_('c', (0_1, 'unitary'))_('all', 'particle_velocity_x')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: FieldValues_agora_1e11_00400_sphere_('c', (0_1, 'unitary'))_('all', 'particle_velocity_y')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: FieldValues_agora_1e11_00400_sphere_('c', (0_1, 'unitary'))_('all', 'particle_velocity_z')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: Failure: ValueError (operands could not be broadcast together with shapes (1029501,3) (8003488,3) )
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/failure.py", line 39, in runTest
+    raise self.exc_val.with_traceback(self.tb)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/loader.py", line 252, in generate
+    for test in g():
+  File "/home/latitude/code/academic/yt_repo/yt/frontends/tipsy/tests/test_outputs_nose.py", line 61, in test_gasoline_dmonly
+    psc.run_defaults()
+  File "/home/latitude/code/academic/yt_repo/yt/testing.py", line 1336, in run_defaults
+    self.compare_dobj_selection(sp1)
+  File "/home/latitude/code/academic/yt_repo/yt/testing.py", line 1319, in compare_dobj_selection
+    assert_array_almost_equal_nulp(sel_pos, obj_results, 5)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/numpy/testing/_private/utils.py", line 1589, in assert_array_almost_equal_nulp
+    ref = nulp * np.spacing(np.where(ax > ay, ax, ay))
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/unyt/array.py", line 1753, in __array_ufunc__
+    out_arr = func(
+ValueError: operands could not be broadcast together with shapes (1029501,3) (8003488,3) 
+
+======================================================================
+ERROR: PixelizedProjectionValues_galaxy_00300_all_('gas', 'density')_0_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: PixelizedProjectionValues_galaxy_00300_all_('gas', 'density')_1_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: PixelizedProjectionValues_galaxy_00300_all_('gas', 'density')_2_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: FieldValues_galaxy_00300_all_('gas', 'density')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: PixelizedProjectionValues_galaxy_00300_all_('gas', 'temperature')_0_('gas', 'density')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: PixelizedProjectionValues_galaxy_00300_all_('gas', 'temperature')_1_('gas', 'density')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: PixelizedProjectionValues_galaxy_00300_all_('gas', 'temperature')_2_('gas', 'density')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: FieldValues_galaxy_00300_all_('gas', 'temperature')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: PixelizedProjectionValues_galaxy_00300_all_('gas', 'velocity_magnitude')_0_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: PixelizedProjectionValues_galaxy_00300_all_('gas', 'velocity_magnitude')_1_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: PixelizedProjectionValues_galaxy_00300_all_('gas', 'velocity_magnitude')_2_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: FieldValues_galaxy_00300_all_('gas', 'velocity_magnitude')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: PixelizedProjectionValues_galaxy_00300_all_('gas', 'Fe_fraction')_0_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: PixelizedProjectionValues_galaxy_00300_all_('gas', 'Fe_fraction')_1_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: PixelizedProjectionValues_galaxy_00300_all_('gas', 'Fe_fraction')_2_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: FieldValues_galaxy_00300_all_('gas', 'Fe_fraction')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: PixelizedProjectionValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('gas', 'density')_0_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: PixelizedProjectionValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('gas', 'density')_1_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: PixelizedProjectionValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('gas', 'density')_2_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: FieldValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('gas', 'density')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: PixelizedProjectionValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('gas', 'temperature')_0_('gas', 'density')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: PixelizedProjectionValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('gas', 'temperature')_1_('gas', 'density')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: PixelizedProjectionValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('gas', 'temperature')_2_('gas', 'density')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: FieldValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('gas', 'temperature')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: PixelizedProjectionValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('gas', 'velocity_magnitude')_0_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: PixelizedProjectionValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('gas', 'velocity_magnitude')_1_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: PixelizedProjectionValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('gas', 'velocity_magnitude')_2_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: FieldValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('gas', 'velocity_magnitude')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: PixelizedProjectionValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('gas', 'Fe_fraction')_0_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: PixelizedProjectionValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('gas', 'Fe_fraction')_1_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: PixelizedProjectionValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('gas', 'Fe_fraction')_2_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: FieldValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('gas', 'Fe_fraction')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: FieldValues_galaxy_00300_all_('Stars', 'Metals')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+======================================================================
+ERROR: FieldValues_galaxy_00300_sphere_('c', (0_1, 'unitary'))_('Stars', 'Metals')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 82, in _create
+    f = _io.open(self._datfile, 'r', encoding="Latin-1")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 420, in __call__
+    dd = self.reference_storage.get(self.storage_name)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 280, in get
+    ds = shelve.open(self.reference_name, protocol=-1)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 243, in open
+    return DbfilenameShelf(filename, flag, protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/shelve.py", line 227, in __init__
+    Shelf.__init__(self, dbm.open(filename, flag), protocol, writeback)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/__init__.py", line 95, in open
+    return mod.open(file, flag, mode)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 316, in open
+    return _Database(file, mode, flag=flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 70, in __init__
+    self._create(flag)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/dbm/dumb.py", line 86, in _create
+    with _io.open(self._datfile, 'w', encoding="Latin-1") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/latitude/data/yt_data/answers/local-tipsy/local-tipsy.dat'
+
+----------------------------------------------------------------------
+Ran 57 tests in 158.035s
+
+FAILED (errors=55)
