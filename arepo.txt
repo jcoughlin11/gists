@@ -1,0 +1,1147 @@
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The text.latex.preview rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The mathtext.fallback_to_cm rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: Support for setting the 'mathtext.fallback_to_cm' rcParam is deprecated since 3.3 and will be removed two minor releases later; use 'mathtext.fallback : 'cm' instead.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The validate_bool_maybe_none function was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The savefig.jpeg_quality rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The keymap.all_axes rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The animation.avconv_path rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The animation.avconv_args rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+PixelizedProjectionValues_snapshot_150_all_('gas', 'density')_0_None ... ok
+PixelizedProjectionValues_snapshot_150_all_('gas', 'density')_1_None ... ok
+PixelizedProjectionValues_snapshot_150_all_('gas', 'density')_2_None ... ok
+FieldValues_snapshot_150_all_('gas', 'density') ... ok
+PixelizedProjectionValues_snapshot_150_all_('gas', 'temperature')_0_('gas', 'density') ... ok
+PixelizedProjectionValues_snapshot_150_all_('gas', 'temperature')_1_('gas', 'density') ... ok
+PixelizedProjectionValues_snapshot_150_all_('gas', 'temperature')_2_('gas', 'density') ... ok
+FieldValues_snapshot_150_all_('gas', 'temperature') ... ok
+PixelizedProjectionValues_snapshot_150_all_('gas', 'velocity_magnitude')_0_None ... ok
+PixelizedProjectionValues_snapshot_150_all_('gas', 'velocity_magnitude')_1_None ... ok
+PixelizedProjectionValues_snapshot_150_all_('gas', 'velocity_magnitude')_2_None ... ok
+FieldValues_snapshot_150_all_('gas', 'velocity_magnitude') ... ok
+PixelizedProjectionValues_snapshot_150_sphere_('c', (0_1, 'unitary'))_('gas', 'density')_0_None ... ok
+PixelizedProjectionValues_snapshot_150_sphere_('c', (0_1, 'unitary'))_('gas', 'density')_1_None ... ok
+PixelizedProjectionValues_snapshot_150_sphere_('c', (0_1, 'unitary'))_('gas', 'density')_2_None ... ok
+FieldValues_snapshot_150_sphere_('c', (0_1, 'unitary'))_('gas', 'density') ... ok
+PixelizedProjectionValues_snapshot_150_sphere_('c', (0_1, 'unitary'))_('gas', 'temperature')_0_('gas', 'density') ... ok
+PixelizedProjectionValues_snapshot_150_sphere_('c', (0_1, 'unitary'))_('gas', 'temperature')_1_('gas', 'density') ... ok
+PixelizedProjectionValues_snapshot_150_sphere_('c', (0_1, 'unitary'))_('gas', 'temperature')_2_('gas', 'density') ... ok
+FieldValues_snapshot_150_sphere_('c', (0_1, 'unitary'))_('gas', 'temperature') ... ok
+PixelizedProjectionValues_snapshot_150_sphere_('c', (0_1, 'unitary'))_('gas', 'velocity_magnitude')_0_None ... ok
+PixelizedProjectionValues_snapshot_150_sphere_('c', (0_1, 'unitary'))_('gas', 'velocity_magnitude')_1_None ... ok
+PixelizedProjectionValues_snapshot_150_sphere_('c', (0_1, 'unitary'))_('gas', 'velocity_magnitude')_2_None ... ok
+FieldValues_snapshot_150_sphere_('c', (0_1, 'unitary'))_('gas', 'velocity_magnitude') ... ok
+PixelizedProjectionValues_halo_59_all_('gas', 'density')_0_None ... ok
+PixelizedProjectionValues_halo_59_all_('gas', 'density')_1_None ... ok
+PixelizedProjectionValues_halo_59_all_('gas', 'density')_2_None ... ok
+FieldValues_halo_59_all_('gas', 'density') ... ok
+PixelizedProjectionValues_halo_59_all_('gas', 'temperature')_0_('gas', 'density') ... ok
+PixelizedProjectionValues_halo_59_all_('gas', 'temperature')_1_('gas', 'density') ... ok
+PixelizedProjectionValues_halo_59_all_('gas', 'temperature')_2_('gas', 'density') ... ok
+FieldValues_halo_59_all_('gas', 'temperature') ... ok
+PixelizedProjectionValues_halo_59_all_('gas', 'H_number_density')_0_None ... ok
+PixelizedProjectionValues_halo_59_all_('gas', 'H_number_density')_1_None ... ok
+PixelizedProjectionValues_halo_59_all_('gas', 'H_number_density')_2_None ... ok
+FieldValues_halo_59_all_('gas', 'H_number_density') ... ok
+PixelizedProjectionValues_halo_59_all_('gas', 'H_p0_number_density')_0_None ... ok
+PixelizedProjectionValues_halo_59_all_('gas', 'H_p0_number_density')_1_None ... ok
+PixelizedProjectionValues_halo_59_all_('gas', 'H_p0_number_density')_2_None ... ok
+FieldValues_halo_59_all_('gas', 'H_p0_number_density') ... ok
+PixelizedProjectionValues_halo_59_all_('gas', 'H_p1_number_density')_0_None ... ok
+PixelizedProjectionValues_halo_59_all_('gas', 'H_p1_number_density')_1_None ... ok
+PixelizedProjectionValues_halo_59_all_('gas', 'H_p1_number_density')_2_None ... ok
+FieldValues_halo_59_all_('gas', 'H_p1_number_density') ... ok
+PixelizedProjectionValues_halo_59_all_('gas', 'El_number_density')_0_None ... ok
+PixelizedProjectionValues_halo_59_all_('gas', 'El_number_density')_1_None ... ok
+PixelizedProjectionValues_halo_59_all_('gas', 'El_number_density')_2_None ... ok
+FieldValues_halo_59_all_('gas', 'El_number_density') ... ok
+PixelizedProjectionValues_halo_59_all_('gas', 'C_number_density')_0_None ... ok
+PixelizedProjectionValues_halo_59_all_('gas', 'C_number_density')_1_None ... ok
+PixelizedProjectionValues_halo_59_all_('gas', 'C_number_density')_2_None ... ok
+FieldValues_halo_59_all_('gas', 'C_number_density') ... ok
+PixelizedProjectionValues_halo_59_all_('gas', 'velocity_magnitude')_0_None ... ok
+PixelizedProjectionValues_halo_59_all_('gas', 'velocity_magnitude')_1_None ... ok
+PixelizedProjectionValues_halo_59_all_('gas', 'velocity_magnitude')_2_None ... ok
+FieldValues_halo_59_all_('gas', 'velocity_magnitude') ... ok
+PixelizedProjectionValues_halo_59_all_('gas', 'magnetic_field_strength')_0_None ... ok
+PixelizedProjectionValues_halo_59_all_('gas', 'magnetic_field_strength')_1_None ... ok
+PixelizedProjectionValues_halo_59_all_('gas', 'magnetic_field_strength')_2_None ... ok
+FieldValues_halo_59_all_('gas', 'magnetic_field_strength') ... ok
+PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'density')_0_None ... ERROR
+PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'density')_1_None ... ERROR
+PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'density')_2_None ... ERROR
+FieldValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'density') ... /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/unyt/array.py:1753: RuntimeWarning: invalid value encountered in true_divide
+  out_arr = func(
+ERROR
+PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'temperature')_0_('gas', 'density') ... ERROR
+PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'temperature')_1_('gas', 'density') ... ERROR
+PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'temperature')_2_('gas', 'density') ... ERROR
+FieldValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'temperature') ... ERROR
+PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'H_number_density')_0_None ... ERROR
+PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'H_number_density')_1_None ... ERROR
+PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'H_number_density')_2_None ... ERROR
+FieldValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'H_number_density') ... ERROR
+PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'H_p0_number_density')_0_None ... ERROR
+PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'H_p0_number_density')_1_None ... ERROR
+PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'H_p0_number_density')_2_None ... ERROR
+FieldValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'H_p0_number_density') ... ERROR
+PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'H_p1_number_density')_0_None ... ERROR
+PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'H_p1_number_density')_1_None ... ERROR
+PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'H_p1_number_density')_2_None ... ERROR
+FieldValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'H_p1_number_density') ... ERROR
+PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'El_number_density')_0_None ... ERROR
+PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'El_number_density')_1_None ... ERROR
+PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'El_number_density')_2_None ... ERROR
+FieldValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'El_number_density') ... ERROR
+PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'C_number_density')_0_None ... ERROR
+PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'C_number_density')_1_None ... ERROR
+PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'C_number_density')_2_None ... ERROR
+FieldValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'C_number_density') ... ERROR
+PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'velocity_magnitude')_0_None ... ERROR
+PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'velocity_magnitude')_1_None ... ERROR
+PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'velocity_magnitude')_2_None ... ERROR
+FieldValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'velocity_magnitude') ... ERROR
+PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'magnetic_field_strength')_0_None ... ERROR
+PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'magnetic_field_strength')_1_None ... ERROR
+PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'magnetic_field_strength')_2_None ... ERROR
+FieldValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'magnetic_field_strength') ... ERROR
+yt.frontends.arepo.tests.test_outputs_nose.test_index_override ... ok
+yt.frontends.arepo.tests.test_outputs_nose.test_arepo_hdf5_selection ... ok
+yt.frontends.arepo.tests.test_outputs_nose.test_arepo_tng59_selection ... ok
+
+======================================================================
+ERROR: PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'density')_0_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 166, in __getitem__
+    units = self.data_source._projected_units[it]
+KeyError: ('gas', 'density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 254, in __getitem__
+    rv = self.field_data[f]
+KeyError: ('gas', 'density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 656, in run
+    frb[self.field]
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 168, in __getitem__
+    units = self.data_source[item].units
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 260, in __getitem__
+    rv = self.ds.arr(self.field_data[key], fi.units)
+KeyError: ('gas', 'density')
+
+======================================================================
+ERROR: PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'density')_1_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 166, in __getitem__
+    units = self.data_source._projected_units[it]
+KeyError: ('gas', 'density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 254, in __getitem__
+    rv = self.field_data[f]
+KeyError: ('gas', 'density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 656, in run
+    frb[self.field]
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 168, in __getitem__
+    units = self.data_source[item].units
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 260, in __getitem__
+    rv = self.ds.arr(self.field_data[key], fi.units)
+KeyError: ('gas', 'density')
+
+======================================================================
+ERROR: PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'density')_2_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 166, in __getitem__
+    units = self.data_source._projected_units[it]
+KeyError: ('gas', 'density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 254, in __getitem__
+    rv = self.field_data[f]
+KeyError: ('gas', 'density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 656, in run
+    frb[self.field]
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 168, in __getitem__
+    units = self.data_source[item].units
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 260, in __getitem__
+    rv = self.ds.arr(self.field_data[key], fi.units)
+KeyError: ('gas', 'density')
+
+======================================================================
+ERROR: FieldValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'density')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 509, in run
+    mi, ma = obj.quantities.extrema(self.field)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 592, in __call__
+    rv = super(Extrema, self).__call__(fields, non_zero)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 65, in __call__
+    values = self.reduce_intermediate(values)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 615, in reduce_intermediate
+    return [
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 616, in <listcomp>
+    self.data_source.ds.arr([mis.min(), mas.max()])
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/numpy/core/_methods.py", line 34, in _amin
+    return umr_minimum(a, axis, None, out, keepdims, initial, where)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/unyt/array.py", line 1649, in __array_ufunc__
+    out_arr = func(np.asarray(inp), out=out_func, **kwargs)
+ValueError: zero-size array to reduction operation minimum which has no identity
+
+======================================================================
+ERROR: PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'temperature')_0_('gas', 'density')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 166, in __getitem__
+    units = self.data_source._projected_units[it]
+KeyError: ('gas', 'temperature')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 254, in __getitem__
+    rv = self.field_data[f]
+KeyError: ('gas', 'temperature')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 656, in run
+    frb[self.field]
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 168, in __getitem__
+    units = self.data_source[item].units
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 260, in __getitem__
+    rv = self.ds.arr(self.field_data[key], fi.units)
+KeyError: ('gas', 'temperature')
+
+======================================================================
+ERROR: PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'temperature')_1_('gas', 'density')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 166, in __getitem__
+    units = self.data_source._projected_units[it]
+KeyError: ('gas', 'temperature')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 254, in __getitem__
+    rv = self.field_data[f]
+KeyError: ('gas', 'temperature')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 656, in run
+    frb[self.field]
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 168, in __getitem__
+    units = self.data_source[item].units
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 260, in __getitem__
+    rv = self.ds.arr(self.field_data[key], fi.units)
+KeyError: ('gas', 'temperature')
+
+======================================================================
+ERROR: PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'temperature')_2_('gas', 'density')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 166, in __getitem__
+    units = self.data_source._projected_units[it]
+KeyError: ('gas', 'temperature')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 254, in __getitem__
+    rv = self.field_data[f]
+KeyError: ('gas', 'temperature')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 656, in run
+    frb[self.field]
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 168, in __getitem__
+    units = self.data_source[item].units
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 260, in __getitem__
+    rv = self.ds.arr(self.field_data[key], fi.units)
+KeyError: ('gas', 'temperature')
+
+======================================================================
+ERROR: FieldValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'temperature')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 509, in run
+    mi, ma = obj.quantities.extrema(self.field)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 592, in __call__
+    rv = super(Extrema, self).__call__(fields, non_zero)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 65, in __call__
+    values = self.reduce_intermediate(values)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 615, in reduce_intermediate
+    return [
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 616, in <listcomp>
+    self.data_source.ds.arr([mis.min(), mas.max()])
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/numpy/core/_methods.py", line 34, in _amin
+    return umr_minimum(a, axis, None, out, keepdims, initial, where)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/unyt/array.py", line 1649, in __array_ufunc__
+    out_arr = func(np.asarray(inp), out=out_func, **kwargs)
+ValueError: zero-size array to reduction operation minimum which has no identity
+
+======================================================================
+ERROR: PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'H_number_density')_0_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 166, in __getitem__
+    units = self.data_source._projected_units[it]
+KeyError: ('gas', 'H_number_density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 254, in __getitem__
+    rv = self.field_data[f]
+KeyError: ('gas', 'H_number_density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 656, in run
+    frb[self.field]
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 168, in __getitem__
+    units = self.data_source[item].units
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 260, in __getitem__
+    rv = self.ds.arr(self.field_data[key], fi.units)
+KeyError: ('gas', 'H_number_density')
+
+======================================================================
+ERROR: PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'H_number_density')_1_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 166, in __getitem__
+    units = self.data_source._projected_units[it]
+KeyError: ('gas', 'H_number_density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 254, in __getitem__
+    rv = self.field_data[f]
+KeyError: ('gas', 'H_number_density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 656, in run
+    frb[self.field]
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 168, in __getitem__
+    units = self.data_source[item].units
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 260, in __getitem__
+    rv = self.ds.arr(self.field_data[key], fi.units)
+KeyError: ('gas', 'H_number_density')
+
+======================================================================
+ERROR: PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'H_number_density')_2_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 166, in __getitem__
+    units = self.data_source._projected_units[it]
+KeyError: ('gas', 'H_number_density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 254, in __getitem__
+    rv = self.field_data[f]
+KeyError: ('gas', 'H_number_density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 656, in run
+    frb[self.field]
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 168, in __getitem__
+    units = self.data_source[item].units
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 260, in __getitem__
+    rv = self.ds.arr(self.field_data[key], fi.units)
+KeyError: ('gas', 'H_number_density')
+
+======================================================================
+ERROR: FieldValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'H_number_density')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 509, in run
+    mi, ma = obj.quantities.extrema(self.field)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 592, in __call__
+    rv = super(Extrema, self).__call__(fields, non_zero)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 65, in __call__
+    values = self.reduce_intermediate(values)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 615, in reduce_intermediate
+    return [
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 616, in <listcomp>
+    self.data_source.ds.arr([mis.min(), mas.max()])
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/numpy/core/_methods.py", line 34, in _amin
+    return umr_minimum(a, axis, None, out, keepdims, initial, where)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/unyt/array.py", line 1649, in __array_ufunc__
+    out_arr = func(np.asarray(inp), out=out_func, **kwargs)
+ValueError: zero-size array to reduction operation minimum which has no identity
+
+======================================================================
+ERROR: PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'H_p0_number_density')_0_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 166, in __getitem__
+    units = self.data_source._projected_units[it]
+KeyError: ('gas', 'H_p0_number_density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 254, in __getitem__
+    rv = self.field_data[f]
+KeyError: ('gas', 'H_p0_number_density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 656, in run
+    frb[self.field]
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 168, in __getitem__
+    units = self.data_source[item].units
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 260, in __getitem__
+    rv = self.ds.arr(self.field_data[key], fi.units)
+KeyError: ('gas', 'H_p0_number_density')
+
+======================================================================
+ERROR: PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'H_p0_number_density')_1_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 166, in __getitem__
+    units = self.data_source._projected_units[it]
+KeyError: ('gas', 'H_p0_number_density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 254, in __getitem__
+    rv = self.field_data[f]
+KeyError: ('gas', 'H_p0_number_density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 656, in run
+    frb[self.field]
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 168, in __getitem__
+    units = self.data_source[item].units
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 260, in __getitem__
+    rv = self.ds.arr(self.field_data[key], fi.units)
+KeyError: ('gas', 'H_p0_number_density')
+
+======================================================================
+ERROR: PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'H_p0_number_density')_2_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 166, in __getitem__
+    units = self.data_source._projected_units[it]
+KeyError: ('gas', 'H_p0_number_density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 254, in __getitem__
+    rv = self.field_data[f]
+KeyError: ('gas', 'H_p0_number_density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 656, in run
+    frb[self.field]
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 168, in __getitem__
+    units = self.data_source[item].units
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 260, in __getitem__
+    rv = self.ds.arr(self.field_data[key], fi.units)
+KeyError: ('gas', 'H_p0_number_density')
+
+======================================================================
+ERROR: FieldValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'H_p0_number_density')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 509, in run
+    mi, ma = obj.quantities.extrema(self.field)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 592, in __call__
+    rv = super(Extrema, self).__call__(fields, non_zero)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 65, in __call__
+    values = self.reduce_intermediate(values)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 615, in reduce_intermediate
+    return [
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 616, in <listcomp>
+    self.data_source.ds.arr([mis.min(), mas.max()])
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/numpy/core/_methods.py", line 34, in _amin
+    return umr_minimum(a, axis, None, out, keepdims, initial, where)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/unyt/array.py", line 1649, in __array_ufunc__
+    out_arr = func(np.asarray(inp), out=out_func, **kwargs)
+ValueError: zero-size array to reduction operation minimum which has no identity
+
+======================================================================
+ERROR: PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'H_p1_number_density')_0_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 166, in __getitem__
+    units = self.data_source._projected_units[it]
+KeyError: ('gas', 'H_p1_number_density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 254, in __getitem__
+    rv = self.field_data[f]
+KeyError: ('gas', 'H_p1_number_density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 656, in run
+    frb[self.field]
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 168, in __getitem__
+    units = self.data_source[item].units
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 260, in __getitem__
+    rv = self.ds.arr(self.field_data[key], fi.units)
+KeyError: ('gas', 'H_p1_number_density')
+
+======================================================================
+ERROR: PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'H_p1_number_density')_1_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 166, in __getitem__
+    units = self.data_source._projected_units[it]
+KeyError: ('gas', 'H_p1_number_density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 254, in __getitem__
+    rv = self.field_data[f]
+KeyError: ('gas', 'H_p1_number_density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 656, in run
+    frb[self.field]
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 168, in __getitem__
+    units = self.data_source[item].units
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 260, in __getitem__
+    rv = self.ds.arr(self.field_data[key], fi.units)
+KeyError: ('gas', 'H_p1_number_density')
+
+======================================================================
+ERROR: PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'H_p1_number_density')_2_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 166, in __getitem__
+    units = self.data_source._projected_units[it]
+KeyError: ('gas', 'H_p1_number_density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 254, in __getitem__
+    rv = self.field_data[f]
+KeyError: ('gas', 'H_p1_number_density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 656, in run
+    frb[self.field]
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 168, in __getitem__
+    units = self.data_source[item].units
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 260, in __getitem__
+    rv = self.ds.arr(self.field_data[key], fi.units)
+KeyError: ('gas', 'H_p1_number_density')
+
+======================================================================
+ERROR: FieldValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'H_p1_number_density')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 509, in run
+    mi, ma = obj.quantities.extrema(self.field)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 592, in __call__
+    rv = super(Extrema, self).__call__(fields, non_zero)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 65, in __call__
+    values = self.reduce_intermediate(values)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 615, in reduce_intermediate
+    return [
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 616, in <listcomp>
+    self.data_source.ds.arr([mis.min(), mas.max()])
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/numpy/core/_methods.py", line 34, in _amin
+    return umr_minimum(a, axis, None, out, keepdims, initial, where)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/unyt/array.py", line 1649, in __array_ufunc__
+    out_arr = func(np.asarray(inp), out=out_func, **kwargs)
+ValueError: zero-size array to reduction operation minimum which has no identity
+
+======================================================================
+ERROR: PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'El_number_density')_0_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 166, in __getitem__
+    units = self.data_source._projected_units[it]
+KeyError: ('gas', 'El_number_density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 254, in __getitem__
+    rv = self.field_data[f]
+KeyError: ('gas', 'El_number_density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 656, in run
+    frb[self.field]
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 168, in __getitem__
+    units = self.data_source[item].units
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 260, in __getitem__
+    rv = self.ds.arr(self.field_data[key], fi.units)
+KeyError: ('gas', 'El_number_density')
+
+======================================================================
+ERROR: PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'El_number_density')_1_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 166, in __getitem__
+    units = self.data_source._projected_units[it]
+KeyError: ('gas', 'El_number_density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 254, in __getitem__
+    rv = self.field_data[f]
+KeyError: ('gas', 'El_number_density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 656, in run
+    frb[self.field]
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 168, in __getitem__
+    units = self.data_source[item].units
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 260, in __getitem__
+    rv = self.ds.arr(self.field_data[key], fi.units)
+KeyError: ('gas', 'El_number_density')
+
+======================================================================
+ERROR: PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'El_number_density')_2_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 166, in __getitem__
+    units = self.data_source._projected_units[it]
+KeyError: ('gas', 'El_number_density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 254, in __getitem__
+    rv = self.field_data[f]
+KeyError: ('gas', 'El_number_density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 656, in run
+    frb[self.field]
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 168, in __getitem__
+    units = self.data_source[item].units
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 260, in __getitem__
+    rv = self.ds.arr(self.field_data[key], fi.units)
+KeyError: ('gas', 'El_number_density')
+
+======================================================================
+ERROR: FieldValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'El_number_density')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 509, in run
+    mi, ma = obj.quantities.extrema(self.field)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 592, in __call__
+    rv = super(Extrema, self).__call__(fields, non_zero)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 65, in __call__
+    values = self.reduce_intermediate(values)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 615, in reduce_intermediate
+    return [
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 616, in <listcomp>
+    self.data_source.ds.arr([mis.min(), mas.max()])
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/numpy/core/_methods.py", line 34, in _amin
+    return umr_minimum(a, axis, None, out, keepdims, initial, where)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/unyt/array.py", line 1649, in __array_ufunc__
+    out_arr = func(np.asarray(inp), out=out_func, **kwargs)
+ValueError: zero-size array to reduction operation minimum which has no identity
+
+======================================================================
+ERROR: PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'C_number_density')_0_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 166, in __getitem__
+    units = self.data_source._projected_units[it]
+KeyError: ('gas', 'C_number_density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 254, in __getitem__
+    rv = self.field_data[f]
+KeyError: ('gas', 'C_number_density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 656, in run
+    frb[self.field]
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 168, in __getitem__
+    units = self.data_source[item].units
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 260, in __getitem__
+    rv = self.ds.arr(self.field_data[key], fi.units)
+KeyError: ('gas', 'C_number_density')
+
+======================================================================
+ERROR: PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'C_number_density')_1_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 166, in __getitem__
+    units = self.data_source._projected_units[it]
+KeyError: ('gas', 'C_number_density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 254, in __getitem__
+    rv = self.field_data[f]
+KeyError: ('gas', 'C_number_density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 656, in run
+    frb[self.field]
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 168, in __getitem__
+    units = self.data_source[item].units
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 260, in __getitem__
+    rv = self.ds.arr(self.field_data[key], fi.units)
+KeyError: ('gas', 'C_number_density')
+
+======================================================================
+ERROR: PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'C_number_density')_2_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 166, in __getitem__
+    units = self.data_source._projected_units[it]
+KeyError: ('gas', 'C_number_density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 254, in __getitem__
+    rv = self.field_data[f]
+KeyError: ('gas', 'C_number_density')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 656, in run
+    frb[self.field]
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 168, in __getitem__
+    units = self.data_source[item].units
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 260, in __getitem__
+    rv = self.ds.arr(self.field_data[key], fi.units)
+KeyError: ('gas', 'C_number_density')
+
+======================================================================
+ERROR: FieldValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'C_number_density')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 509, in run
+    mi, ma = obj.quantities.extrema(self.field)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 592, in __call__
+    rv = super(Extrema, self).__call__(fields, non_zero)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 65, in __call__
+    values = self.reduce_intermediate(values)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 615, in reduce_intermediate
+    return [
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 616, in <listcomp>
+    self.data_source.ds.arr([mis.min(), mas.max()])
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/numpy/core/_methods.py", line 34, in _amin
+    return umr_minimum(a, axis, None, out, keepdims, initial, where)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/unyt/array.py", line 1649, in __array_ufunc__
+    out_arr = func(np.asarray(inp), out=out_func, **kwargs)
+ValueError: zero-size array to reduction operation minimum which has no identity
+
+======================================================================
+ERROR: PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'velocity_magnitude')_0_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 166, in __getitem__
+    units = self.data_source._projected_units[it]
+KeyError: ('gas', 'velocity_magnitude')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 254, in __getitem__
+    rv = self.field_data[f]
+KeyError: ('gas', 'velocity_magnitude')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 656, in run
+    frb[self.field]
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 168, in __getitem__
+    units = self.data_source[item].units
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 260, in __getitem__
+    rv = self.ds.arr(self.field_data[key], fi.units)
+KeyError: ('gas', 'velocity_magnitude')
+
+======================================================================
+ERROR: PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'velocity_magnitude')_1_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 166, in __getitem__
+    units = self.data_source._projected_units[it]
+KeyError: ('gas', 'velocity_magnitude')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 254, in __getitem__
+    rv = self.field_data[f]
+KeyError: ('gas', 'velocity_magnitude')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 656, in run
+    frb[self.field]
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 168, in __getitem__
+    units = self.data_source[item].units
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 260, in __getitem__
+    rv = self.ds.arr(self.field_data[key], fi.units)
+KeyError: ('gas', 'velocity_magnitude')
+
+======================================================================
+ERROR: PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'velocity_magnitude')_2_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 166, in __getitem__
+    units = self.data_source._projected_units[it]
+KeyError: ('gas', 'velocity_magnitude')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 254, in __getitem__
+    rv = self.field_data[f]
+KeyError: ('gas', 'velocity_magnitude')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 656, in run
+    frb[self.field]
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 168, in __getitem__
+    units = self.data_source[item].units
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 260, in __getitem__
+    rv = self.ds.arr(self.field_data[key], fi.units)
+KeyError: ('gas', 'velocity_magnitude')
+
+======================================================================
+ERROR: FieldValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'velocity_magnitude')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 509, in run
+    mi, ma = obj.quantities.extrema(self.field)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 592, in __call__
+    rv = super(Extrema, self).__call__(fields, non_zero)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 65, in __call__
+    values = self.reduce_intermediate(values)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 615, in reduce_intermediate
+    return [
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 616, in <listcomp>
+    self.data_source.ds.arr([mis.min(), mas.max()])
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/numpy/core/_methods.py", line 34, in _amin
+    return umr_minimum(a, axis, None, out, keepdims, initial, where)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/unyt/array.py", line 1649, in __array_ufunc__
+    out_arr = func(np.asarray(inp), out=out_func, **kwargs)
+ValueError: zero-size array to reduction operation minimum which has no identity
+
+======================================================================
+ERROR: PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'magnetic_field_strength')_0_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 166, in __getitem__
+    units = self.data_source._projected_units[it]
+KeyError: ('gas', 'magnetic_field_strength')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 254, in __getitem__
+    rv = self.field_data[f]
+KeyError: ('gas', 'magnetic_field_strength')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 656, in run
+    frb[self.field]
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 168, in __getitem__
+    units = self.data_source[item].units
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 260, in __getitem__
+    rv = self.ds.arr(self.field_data[key], fi.units)
+KeyError: ('gas', 'magnetic_field_strength')
+
+======================================================================
+ERROR: PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'magnetic_field_strength')_1_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 166, in __getitem__
+    units = self.data_source._projected_units[it]
+KeyError: ('gas', 'magnetic_field_strength')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 254, in __getitem__
+    rv = self.field_data[f]
+KeyError: ('gas', 'magnetic_field_strength')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 656, in run
+    frb[self.field]
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 168, in __getitem__
+    units = self.data_source[item].units
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 260, in __getitem__
+    rv = self.ds.arr(self.field_data[key], fi.units)
+KeyError: ('gas', 'magnetic_field_strength')
+
+======================================================================
+ERROR: PixelizedProjectionValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'magnetic_field_strength')_2_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 166, in __getitem__
+    units = self.data_source._projected_units[it]
+KeyError: ('gas', 'magnetic_field_strength')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 254, in __getitem__
+    rv = self.field_data[f]
+KeyError: ('gas', 'magnetic_field_strength')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 656, in run
+    frb[self.field]
+  File "/home/latitude/code/academic/yt_repo/yt/visualization/fixed_resolution.py", line 168, in __getitem__
+    units = self.data_source[item].units
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/data_containers.py", line 260, in __getitem__
+    rv = self.ds.arr(self.field_data[key], fi.units)
+KeyError: ('gas', 'magnetic_field_strength')
+
+======================================================================
+ERROR: FieldValues_halo_59_sphere_('c', (0_1, 'unitary'))_('gas', 'magnetic_field_strength')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 509, in run
+    mi, ma = obj.quantities.extrema(self.field)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 592, in __call__
+    rv = super(Extrema, self).__call__(fields, non_zero)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 65, in __call__
+    values = self.reduce_intermediate(values)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 615, in reduce_intermediate
+    return [
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 616, in <listcomp>
+    self.data_source.ds.arr([mis.min(), mas.max()])
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/numpy/core/_methods.py", line 34, in _amin
+    return umr_minimum(a, axis, None, out, keepdims, initial, where)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/unyt/array.py", line 1649, in __array_ufunc__
+    out_arr = func(np.asarray(inp), out=out_func, **kwargs)
+ValueError: zero-size array to reduction operation minimum which has no identity
+
+----------------------------------------------------------------------
+Ran 99 tests in 715.322s
+
+FAILED (errors=36)
