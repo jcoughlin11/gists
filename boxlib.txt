@@ -1,0 +1,539 @@
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The text.latex.preview rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The mathtext.fallback_to_cm rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: Support for setting the 'mathtext.fallback_to_cm' rcParam is deprecated since 3.3 and will be removed two minor releases later; use 'mathtext.fallback : 'cm' instead.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The validate_bool_maybe_none function was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The savefig.jpeg_quality rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The keymap.all_axes rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The animation.avconv_path rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The animation.avconv_args rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+GridHierarchy_plt00000_all ... FAIL
+ParentageRelationships_plt00000_all ... ok
+GridValues_plt00000_all_temperature ... ok
+ProjectionValues_plt00000_all_temperature_0_None ... ok
+ProjectionValues_plt00000_all_temperature_0_density ... ok
+FieldValues_plt00000_all_temperature ... ok
+ProjectionValues_plt00000_sphere_('max', (0_1, 'unitary'))_temperature_0_None ... ok
+ProjectionValues_plt00000_sphere_('max', (0_1, 'unitary'))_temperature_0_density ... ok
+FieldValues_plt00000_sphere_('max', (0_1, 'unitary'))_temperature ... ok
+ProjectionValues_plt00000_all_temperature_1_None ... ok
+ProjectionValues_plt00000_all_temperature_1_density ... ok
+FieldValues_plt00000_all_temperature ... ok
+ProjectionValues_plt00000_sphere_('max', (0_1, 'unitary'))_temperature_1_None ... ok
+ProjectionValues_plt00000_sphere_('max', (0_1, 'unitary'))_temperature_1_density ... ok
+FieldValues_plt00000_sphere_('max', (0_1, 'unitary'))_temperature ... ok
+ProjectionValues_plt00000_all_temperature_2_None ... ok
+ProjectionValues_plt00000_all_temperature_2_density ... ok
+FieldValues_plt00000_all_temperature ... ok
+ProjectionValues_plt00000_sphere_('max', (0_1, 'unitary'))_temperature_2_None ... ok
+ProjectionValues_plt00000_sphere_('max', (0_1, 'unitary'))_temperature_2_density ... ok
+FieldValues_plt00000_sphere_('max', (0_1, 'unitary'))_temperature ... ok
+GridValues_plt00000_all_density ... ok
+ProjectionValues_plt00000_all_density_0_None ... ok
+ProjectionValues_plt00000_all_density_0_density ... ok
+FieldValues_plt00000_all_density ... ok
+ProjectionValues_plt00000_sphere_('max', (0_1, 'unitary'))_density_0_None ... ok
+ProjectionValues_plt00000_sphere_('max', (0_1, 'unitary'))_density_0_density ... ok
+FieldValues_plt00000_sphere_('max', (0_1, 'unitary'))_density ... ok
+ProjectionValues_plt00000_all_density_1_None ... ok
+ProjectionValues_plt00000_all_density_1_density ... ok
+FieldValues_plt00000_all_density ... ok
+ProjectionValues_plt00000_sphere_('max', (0_1, 'unitary'))_density_1_None ... ok
+ProjectionValues_plt00000_sphere_('max', (0_1, 'unitary'))_density_1_density ... ok
+FieldValues_plt00000_sphere_('max', (0_1, 'unitary'))_density ... ok
+ProjectionValues_plt00000_all_density_2_None ... ok
+ProjectionValues_plt00000_all_density_2_density ... ok
+FieldValues_plt00000_all_density ... ok
+ProjectionValues_plt00000_sphere_('max', (0_1, 'unitary'))_density_2_None ... ok
+ProjectionValues_plt00000_sphere_('max', (0_1, 'unitary'))_density_2_density ... ok
+FieldValues_plt00000_sphere_('max', (0_1, 'unitary'))_density ... ok
+GridValues_plt00000_all_velocity_magnitude ... ok
+ProjectionValues_plt00000_all_velocity_magnitude_0_None ... ok
+ProjectionValues_plt00000_all_velocity_magnitude_0_density ... ok
+FieldValues_plt00000_all_velocity_magnitude ... ok
+ProjectionValues_plt00000_sphere_('max', (0_1, 'unitary'))_velocity_magnitude_0_None ... ok
+ProjectionValues_plt00000_sphere_('max', (0_1, 'unitary'))_velocity_magnitude_0_density ... ok
+FieldValues_plt00000_sphere_('max', (0_1, 'unitary'))_velocity_magnitude ... ok
+ProjectionValues_plt00000_all_velocity_magnitude_1_None ... ok
+ProjectionValues_plt00000_all_velocity_magnitude_1_density ... ok
+FieldValues_plt00000_all_velocity_magnitude ... ok
+ProjectionValues_plt00000_sphere_('max', (0_1, 'unitary'))_velocity_magnitude_1_None ... ok
+ProjectionValues_plt00000_sphere_('max', (0_1, 'unitary'))_velocity_magnitude_1_density ... ok
+FieldValues_plt00000_sphere_('max', (0_1, 'unitary'))_velocity_magnitude ... ok
+ProjectionValues_plt00000_all_velocity_magnitude_2_None ... ok
+ProjectionValues_plt00000_all_velocity_magnitude_2_density ... ok
+FieldValues_plt00000_all_velocity_magnitude ... ok
+ProjectionValues_plt00000_sphere_('max', (0_1, 'unitary'))_velocity_magnitude_2_None ... ok
+ProjectionValues_plt00000_sphere_('max', (0_1, 'unitary'))_velocity_magnitude_2_density ... ok
+FieldValues_plt00000_sphere_('max', (0_1, 'unitary'))_velocity_magnitude ... ok
+GridHierarchy_plt00500_all ... ok
+ParentageRelationships_plt00500_all ... ok
+GridValues_plt00500_all_temperature ... ok
+ProjectionValues_plt00500_all_temperature_0_None ... ok
+ProjectionValues_plt00500_all_temperature_0_density ... ok
+FieldValues_plt00500_all_temperature ... ok
+ProjectionValues_plt00500_sphere_('max', (0_1, 'unitary'))_temperature_0_None ... ok
+ProjectionValues_plt00500_sphere_('max', (0_1, 'unitary'))_temperature_0_density ... ok
+FieldValues_plt00500_sphere_('max', (0_1, 'unitary'))_temperature ... ok
+ProjectionValues_plt00500_all_temperature_1_None ... ok
+ProjectionValues_plt00500_all_temperature_1_density ... ok
+FieldValues_plt00500_all_temperature ... ok
+ProjectionValues_plt00500_sphere_('max', (0_1, 'unitary'))_temperature_1_None ... ok
+ProjectionValues_plt00500_sphere_('max', (0_1, 'unitary'))_temperature_1_density ... ok
+FieldValues_plt00500_sphere_('max', (0_1, 'unitary'))_temperature ... ok
+ProjectionValues_plt00500_all_temperature_2_None ... ok
+ProjectionValues_plt00500_all_temperature_2_density ... ok
+FieldValues_plt00500_all_temperature ... ok
+ProjectionValues_plt00500_sphere_('max', (0_1, 'unitary'))_temperature_2_None ... ok
+ProjectionValues_plt00500_sphere_('max', (0_1, 'unitary'))_temperature_2_density ... ok
+FieldValues_plt00500_sphere_('max', (0_1, 'unitary'))_temperature ... ok
+GridValues_plt00500_all_density ... ok
+ProjectionValues_plt00500_all_density_0_None ... ok
+ProjectionValues_plt00500_all_density_0_density ... ok
+FieldValues_plt00500_all_density ... ok
+ProjectionValues_plt00500_sphere_('max', (0_1, 'unitary'))_density_0_None ... ok
+ProjectionValues_plt00500_sphere_('max', (0_1, 'unitary'))_density_0_density ... ok
+FieldValues_plt00500_sphere_('max', (0_1, 'unitary'))_density ... ok
+ProjectionValues_plt00500_all_density_1_None ... ok
+ProjectionValues_plt00500_all_density_1_density ... ok
+FieldValues_plt00500_all_density ... ok
+ProjectionValues_plt00500_sphere_('max', (0_1, 'unitary'))_density_1_None ... ok
+ProjectionValues_plt00500_sphere_('max', (0_1, 'unitary'))_density_1_density ... ok
+FieldValues_plt00500_sphere_('max', (0_1, 'unitary'))_density ... ok
+ProjectionValues_plt00500_all_density_2_None ... ok
+ProjectionValues_plt00500_all_density_2_density ... ok
+FieldValues_plt00500_all_density ... ok
+ProjectionValues_plt00500_sphere_('max', (0_1, 'unitary'))_density_2_None ... ok
+ProjectionValues_plt00500_sphere_('max', (0_1, 'unitary'))_density_2_density ... ok
+FieldValues_plt00500_sphere_('max', (0_1, 'unitary'))_density ... ok
+GridValues_plt00500_all_velocity_magnitude ... ok
+ProjectionValues_plt00500_all_velocity_magnitude_0_None ... ok
+ProjectionValues_plt00500_all_velocity_magnitude_0_density ... ok
+FieldValues_plt00500_all_velocity_magnitude ... ok
+ProjectionValues_plt00500_sphere_('max', (0_1, 'unitary'))_velocity_magnitude_0_None ... ok
+ProjectionValues_plt00500_sphere_('max', (0_1, 'unitary'))_velocity_magnitude_0_density ... ok
+FieldValues_plt00500_sphere_('max', (0_1, 'unitary'))_velocity_magnitude ... ok
+ProjectionValues_plt00500_all_velocity_magnitude_1_None ... ok
+ProjectionValues_plt00500_all_velocity_magnitude_1_density ... ok
+FieldValues_plt00500_all_velocity_magnitude ... ok
+ProjectionValues_plt00500_sphere_('max', (0_1, 'unitary'))_velocity_magnitude_1_None ... ok
+ProjectionValues_plt00500_sphere_('max', (0_1, 'unitary'))_velocity_magnitude_1_density ... ok
+FieldValues_plt00500_sphere_('max', (0_1, 'unitary'))_velocity_magnitude ... ok
+ProjectionValues_plt00500_all_velocity_magnitude_2_None ... ok
+ProjectionValues_plt00500_all_velocity_magnitude_2_density ... ok
+FieldValues_plt00500_all_velocity_magnitude ... ok
+ProjectionValues_plt00500_sphere_('max', (0_1, 'unitary'))_velocity_magnitude_2_None ... ok
+ProjectionValues_plt00500_sphere_('max', (0_1, 'unitary'))_velocity_magnitude_2_density ... ok
+FieldValues_plt00500_sphere_('max', (0_1, 'unitary'))_velocity_magnitude ... ok
+GridHierarchy_plrd01000_all ... ok
+ParentageRelationships_plrd01000_all ... ok
+GridValues_plrd01000_all_temperature ... ok
+ProjectionValues_plrd01000_all_temperature_0_None ... ok
+ProjectionValues_plrd01000_all_temperature_0_density ... ok
+FieldValues_plrd01000_all_temperature ... ok
+ProjectionValues_plrd01000_sphere_('max', (0_1, 'unitary'))_temperature_0_None ... ok
+ProjectionValues_plrd01000_sphere_('max', (0_1, 'unitary'))_temperature_0_density ... ok
+FieldValues_plrd01000_sphere_('max', (0_1, 'unitary'))_temperature ... ok
+ProjectionValues_plrd01000_all_temperature_1_None ... ok
+ProjectionValues_plrd01000_all_temperature_1_density ... ok
+FieldValues_plrd01000_all_temperature ... ok
+ProjectionValues_plrd01000_sphere_('max', (0_1, 'unitary'))_temperature_1_None ... ok
+ProjectionValues_plrd01000_sphere_('max', (0_1, 'unitary'))_temperature_1_density ... ok
+FieldValues_plrd01000_sphere_('max', (0_1, 'unitary'))_temperature ... ok
+ProjectionValues_plrd01000_all_temperature_2_None ... ok
+ProjectionValues_plrd01000_all_temperature_2_density ... ok
+FieldValues_plrd01000_all_temperature ... ok
+ProjectionValues_plrd01000_sphere_('max', (0_1, 'unitary'))_temperature_2_None ... ok
+ProjectionValues_plrd01000_sphere_('max', (0_1, 'unitary'))_temperature_2_density ... ok
+FieldValues_plrd01000_sphere_('max', (0_1, 'unitary'))_temperature ... ok
+GridValues_plrd01000_all_density ... ok
+ProjectionValues_plrd01000_all_density_0_None ... ok
+ProjectionValues_plrd01000_all_density_0_density ... ok
+FieldValues_plrd01000_all_density ... ok
+ProjectionValues_plrd01000_sphere_('max', (0_1, 'unitary'))_density_0_None ... ok
+ProjectionValues_plrd01000_sphere_('max', (0_1, 'unitary'))_density_0_density ... ok
+FieldValues_plrd01000_sphere_('max', (0_1, 'unitary'))_density ... ok
+ProjectionValues_plrd01000_all_density_1_None ... ok
+ProjectionValues_plrd01000_all_density_1_density ... ok
+FieldValues_plrd01000_all_density ... ok
+ProjectionValues_plrd01000_sphere_('max', (0_1, 'unitary'))_density_1_None ... ok
+ProjectionValues_plrd01000_sphere_('max', (0_1, 'unitary'))_density_1_density ... ok
+FieldValues_plrd01000_sphere_('max', (0_1, 'unitary'))_density ... ok
+ProjectionValues_plrd01000_all_density_2_None ... ok
+ProjectionValues_plrd01000_all_density_2_density ... ok
+FieldValues_plrd01000_all_density ... ok
+ProjectionValues_plrd01000_sphere_('max', (0_1, 'unitary'))_density_2_None ... ok
+ProjectionValues_plrd01000_sphere_('max', (0_1, 'unitary'))_density_2_density ... ok
+FieldValues_plrd01000_sphere_('max', (0_1, 'unitary'))_density ... ok
+GridValues_plrd01000_all_velocity_magnitude ... ok
+ProjectionValues_plrd01000_all_velocity_magnitude_0_None ... ok
+ProjectionValues_plrd01000_all_velocity_magnitude_0_density ... ok
+FieldValues_plrd01000_all_velocity_magnitude ... ok
+ProjectionValues_plrd01000_sphere_('max', (0_1, 'unitary'))_velocity_magnitude_0_None ... ok
+ProjectionValues_plrd01000_sphere_('max', (0_1, 'unitary'))_velocity_magnitude_0_density ... ok
+FieldValues_plrd01000_sphere_('max', (0_1, 'unitary'))_velocity_magnitude ... ok
+ProjectionValues_plrd01000_all_velocity_magnitude_1_None ... ok
+ProjectionValues_plrd01000_all_velocity_magnitude_1_density ... ok
+FieldValues_plrd01000_all_velocity_magnitude ... ok
+ProjectionValues_plrd01000_sphere_('max', (0_1, 'unitary'))_velocity_magnitude_1_None ... ok
+ProjectionValues_plrd01000_sphere_('max', (0_1, 'unitary'))_velocity_magnitude_1_density ... ok
+FieldValues_plrd01000_sphere_('max', (0_1, 'unitary'))_velocity_magnitude ... ok
+ProjectionValues_plrd01000_all_velocity_magnitude_2_None ... ok
+ProjectionValues_plrd01000_all_velocity_magnitude_2_density ... ok
+FieldValues_plrd01000_all_velocity_magnitude ... ok
+ProjectionValues_plrd01000_sphere_('max', (0_1, 'unitary'))_velocity_magnitude_2_None ... ok
+ProjectionValues_plrd01000_sphere_('max', (0_1, 'unitary'))_velocity_magnitude_2_density ... ok
+FieldValues_plrd01000_sphere_('max', (0_1, 'unitary'))_velocity_magnitude ... ok
+GridHierarchy_plt00000_all ... ok
+ParentageRelationships_plt00000_all ... ok
+GridValues_plt00000_all_Ne ... ok
+ProjectionValues_plt00000_all_Ne_0_None ... ok
+ProjectionValues_plt00000_all_Ne_0_Ne ... ok
+FieldValues_plt00000_all_Ne ... ok
+ProjectionValues_plt00000_sphere_('c', (0_1, 'unitary'))_Ne_0_None ... ok
+ProjectionValues_plt00000_sphere_('c', (0_1, 'unitary'))_Ne_0_Ne ... ok
+FieldValues_plt00000_sphere_('c', (0_1, 'unitary'))_Ne ... ok
+ProjectionValues_plt00000_all_Ne_1_None ... ok
+ProjectionValues_plt00000_all_Ne_1_Ne ... ok
+FieldValues_plt00000_all_Ne ... ok
+ProjectionValues_plt00000_sphere_('c', (0_1, 'unitary'))_Ne_1_None ... ok
+ProjectionValues_plt00000_sphere_('c', (0_1, 'unitary'))_Ne_1_Ne ... ok
+FieldValues_plt00000_sphere_('c', (0_1, 'unitary'))_Ne ... ok
+ProjectionValues_plt00000_all_Ne_2_None ... ok
+ProjectionValues_plt00000_all_Ne_2_Ne ... ok
+FieldValues_plt00000_all_Ne ... ok
+ProjectionValues_plt00000_sphere_('c', (0_1, 'unitary'))_Ne_2_None ... ok
+ProjectionValues_plt00000_sphere_('c', (0_1, 'unitary'))_Ne_2_Ne ... ok
+FieldValues_plt00000_sphere_('c', (0_1, 'unitary'))_Ne ... ok
+GridValues_plt00000_all_Temp ... ok
+ProjectionValues_plt00000_all_Temp_0_None ... ok
+ProjectionValues_plt00000_all_Temp_0_Ne ... ok
+FieldValues_plt00000_all_Temp ... ok
+ProjectionValues_plt00000_sphere_('c', (0_1, 'unitary'))_Temp_0_None ... ok
+ProjectionValues_plt00000_sphere_('c', (0_1, 'unitary'))_Temp_0_Ne ... ok
+FieldValues_plt00000_sphere_('c', (0_1, 'unitary'))_Temp ... ok
+ProjectionValues_plt00000_all_Temp_1_None ... ok
+ProjectionValues_plt00000_all_Temp_1_Ne ... ok
+FieldValues_plt00000_all_Temp ... ok
+ProjectionValues_plt00000_sphere_('c', (0_1, 'unitary'))_Temp_1_None ... ok
+ProjectionValues_plt00000_sphere_('c', (0_1, 'unitary'))_Temp_1_Ne ... ok
+FieldValues_plt00000_sphere_('c', (0_1, 'unitary'))_Temp ... ok
+ProjectionValues_plt00000_all_Temp_2_None ... ok
+ProjectionValues_plt00000_all_Temp_2_Ne ... ok
+FieldValues_plt00000_all_Temp ... ok
+ProjectionValues_plt00000_sphere_('c', (0_1, 'unitary'))_Temp_2_None ... ok
+ProjectionValues_plt00000_sphere_('c', (0_1, 'unitary'))_Temp_2_Ne ... ok
+FieldValues_plt00000_sphere_('c', (0_1, 'unitary'))_Temp ... ok
+GridValues_plt00000_all_particle_mass_density ... ok
+ProjectionValues_plt00000_all_particle_mass_density_0_None ... ok
+ProjectionValues_plt00000_all_particle_mass_density_0_Ne ... ok
+FieldValues_plt00000_all_particle_mass_density ... ok
+ProjectionValues_plt00000_sphere_('c', (0_1, 'unitary'))_particle_mass_density_0_None ... ok
+ProjectionValues_plt00000_sphere_('c', (0_1, 'unitary'))_particle_mass_density_0_Ne ... ok
+FieldValues_plt00000_sphere_('c', (0_1, 'unitary'))_particle_mass_density ... ok
+ProjectionValues_plt00000_all_particle_mass_density_1_None ... ok
+ProjectionValues_plt00000_all_particle_mass_density_1_Ne ... ok
+FieldValues_plt00000_all_particle_mass_density ... ok
+ProjectionValues_plt00000_sphere_('c', (0_1, 'unitary'))_particle_mass_density_1_None ... ok
+ProjectionValues_plt00000_sphere_('c', (0_1, 'unitary'))_particle_mass_density_1_Ne ... ok
+FieldValues_plt00000_sphere_('c', (0_1, 'unitary'))_particle_mass_density ... ok
+ProjectionValues_plt00000_all_particle_mass_density_2_None ... ok
+ProjectionValues_plt00000_all_particle_mass_density_2_Ne ... ok
+FieldValues_plt00000_all_particle_mass_density ... ok
+ProjectionValues_plt00000_sphere_('c', (0_1, 'unitary'))_particle_mass_density_2_None ... ok
+ProjectionValues_plt00000_sphere_('c', (0_1, 'unitary'))_particle_mass_density_2_Ne ... ok
+FieldValues_plt00000_sphere_('c', (0_1, 'unitary'))_particle_mass_density ... ok
+GridHierarchy_plt00050_all ... ok
+ParentageRelationships_plt00050_all ... ok
+GridValues_plt00050_all_Temp ... ok
+ProjectionValues_plt00050_all_Temp_0_None ... ok
+ProjectionValues_plt00050_all_Temp_0_density ... ok
+FieldValues_plt00050_all_Temp ... ok
+ProjectionValues_plt00050_sphere_('max', (0_1, 'unitary'))_Temp_0_None ... ok
+ProjectionValues_plt00050_sphere_('max', (0_1, 'unitary'))_Temp_0_density ... ok
+FieldValues_plt00050_sphere_('max', (0_1, 'unitary'))_Temp ... ok
+ProjectionValues_plt00050_all_Temp_1_None ... ok
+ProjectionValues_plt00050_all_Temp_1_density ... ok
+FieldValues_plt00050_all_Temp ... ok
+ProjectionValues_plt00050_sphere_('max', (0_1, 'unitary'))_Temp_1_None ... ok
+ProjectionValues_plt00050_sphere_('max', (0_1, 'unitary'))_Temp_1_density ... ok
+FieldValues_plt00050_sphere_('max', (0_1, 'unitary'))_Temp ... ok
+ProjectionValues_plt00050_all_Temp_2_None ... ok
+ProjectionValues_plt00050_all_Temp_2_density ... ok
+FieldValues_plt00050_all_Temp ... ok
+ProjectionValues_plt00050_sphere_('max', (0_1, 'unitary'))_Temp_2_None ... ok
+ProjectionValues_plt00050_sphere_('max', (0_1, 'unitary'))_Temp_2_density ... ok
+FieldValues_plt00050_sphere_('max', (0_1, 'unitary'))_Temp ... ok
+GridValues_plt00050_all_density ... ok
+ProjectionValues_plt00050_all_density_0_None ... ok
+ProjectionValues_plt00050_all_density_0_density ... ok
+FieldValues_plt00050_all_density ... ok
+ProjectionValues_plt00050_sphere_('max', (0_1, 'unitary'))_density_0_None ... ok
+ProjectionValues_plt00050_sphere_('max', (0_1, 'unitary'))_density_0_density ... ok
+FieldValues_plt00050_sphere_('max', (0_1, 'unitary'))_density ... ok
+ProjectionValues_plt00050_all_density_1_None ... ok
+ProjectionValues_plt00050_all_density_1_density ... ok
+FieldValues_plt00050_all_density ... ok
+ProjectionValues_plt00050_sphere_('max', (0_1, 'unitary'))_density_1_None ... ok
+ProjectionValues_plt00050_sphere_('max', (0_1, 'unitary'))_density_1_density ... ok
+FieldValues_plt00050_sphere_('max', (0_1, 'unitary'))_density ... ok
+ProjectionValues_plt00050_all_density_2_None ... ok
+ProjectionValues_plt00050_all_density_2_density ... ok
+FieldValues_plt00050_all_density ... ok
+ProjectionValues_plt00050_sphere_('max', (0_1, 'unitary'))_density_2_None ... ok
+ProjectionValues_plt00050_sphere_('max', (0_1, 'unitary'))_density_2_density ... ok
+FieldValues_plt00050_sphere_('max', (0_1, 'unitary'))_density ... ok
+GridValues_plt00050_all_particle_count ... ok
+ProjectionValues_plt00050_all_particle_count_0_None ... ok
+ProjectionValues_plt00050_all_particle_count_0_density ... ok
+FieldValues_plt00050_all_particle_count ... ok
+ProjectionValues_plt00050_sphere_('max', (0_1, 'unitary'))_particle_count_0_None ... ok
+ProjectionValues_plt00050_sphere_('max', (0_1, 'unitary'))_particle_count_0_density ... ok
+FieldValues_plt00050_sphere_('max', (0_1, 'unitary'))_particle_count ... ok
+ProjectionValues_plt00050_all_particle_count_1_None ... ok
+ProjectionValues_plt00050_all_particle_count_1_density ... ok
+FieldValues_plt00050_all_particle_count ... ok
+ProjectionValues_plt00050_sphere_('max', (0_1, 'unitary'))_particle_count_1_None ... ok
+ProjectionValues_plt00050_sphere_('max', (0_1, 'unitary'))_particle_count_1_density ... ok
+FieldValues_plt00050_sphere_('max', (0_1, 'unitary'))_particle_count ... ok
+ProjectionValues_plt00050_all_particle_count_2_None ... ok
+ProjectionValues_plt00050_all_particle_count_2_density ... ok
+FieldValues_plt00050_all_particle_count ... ok
+ProjectionValues_plt00050_sphere_('max', (0_1, 'unitary'))_particle_count_2_None ... ok
+ProjectionValues_plt00050_sphere_('max', (0_1, 'unitary'))_particle_count_2_density ... ok
+FieldValues_plt00050_sphere_('max', (0_1, 'unitary'))_particle_count ... ok
+GridHierarchy_plt00020_v2_all ... ok
+ParentageRelationships_plt00020_v2_all ... ok
+GridValues_plt00020_v2_all_Ex ... ok
+ProjectionValues_plt00020_v2_all_Ex_0_None ... ok
+ProjectionValues_plt00020_v2_all_Ex_0_Ex ... ok
+FieldValues_plt00020_v2_all_Ex ... ok
+ProjectionValues_plt00020_v2_sphere_('c', (0_1, 'unitary'))_Ex_0_None ... ok
+ProjectionValues_plt00020_v2_sphere_('c', (0_1, 'unitary'))_Ex_0_Ex ... ok
+FieldValues_plt00020_v2_sphere_('c', (0_1, 'unitary'))_Ex ... ok
+ProjectionValues_plt00020_v2_all_Ex_1_None ... ok
+ProjectionValues_plt00020_v2_all_Ex_1_Ex ... ok
+FieldValues_plt00020_v2_all_Ex ... ok
+ProjectionValues_plt00020_v2_sphere_('c', (0_1, 'unitary'))_Ex_1_None ... ok
+ProjectionValues_plt00020_v2_sphere_('c', (0_1, 'unitary'))_Ex_1_Ex ... ok
+FieldValues_plt00020_v2_sphere_('c', (0_1, 'unitary'))_Ex ... ok
+ProjectionValues_plt00020_v2_all_Ex_2_None ... ok
+ProjectionValues_plt00020_v2_all_Ex_2_Ex ... ok
+FieldValues_plt00020_v2_all_Ex ... ok
+ProjectionValues_plt00020_v2_sphere_('c', (0_1, 'unitary'))_Ex_2_None ... ok
+ProjectionValues_plt00020_v2_sphere_('c', (0_1, 'unitary'))_Ex_2_Ex ... ok
+FieldValues_plt00020_v2_sphere_('c', (0_1, 'unitary'))_Ex ... ok
+GridValues_plt00020_v2_all_By ... ok
+ProjectionValues_plt00020_v2_all_By_0_None ... ok
+ProjectionValues_plt00020_v2_all_By_0_Ex ... ok
+FieldValues_plt00020_v2_all_By ... ok
+ProjectionValues_plt00020_v2_sphere_('c', (0_1, 'unitary'))_By_0_None ... ok
+ProjectionValues_plt00020_v2_sphere_('c', (0_1, 'unitary'))_By_0_Ex ... ok
+FieldValues_plt00020_v2_sphere_('c', (0_1, 'unitary'))_By ... ok
+ProjectionValues_plt00020_v2_all_By_1_None ... ok
+ProjectionValues_plt00020_v2_all_By_1_Ex ... ok
+FieldValues_plt00020_v2_all_By ... ok
+ProjectionValues_plt00020_v2_sphere_('c', (0_1, 'unitary'))_By_1_None ... ok
+ProjectionValues_plt00020_v2_sphere_('c', (0_1, 'unitary'))_By_1_Ex ... ok
+FieldValues_plt00020_v2_sphere_('c', (0_1, 'unitary'))_By ... ok
+ProjectionValues_plt00020_v2_all_By_2_None ... ok
+ProjectionValues_plt00020_v2_all_By_2_Ex ... ok
+FieldValues_plt00020_v2_all_By ... ok
+ProjectionValues_plt00020_v2_sphere_('c', (0_1, 'unitary'))_By_2_None ... ok
+ProjectionValues_plt00020_v2_sphere_('c', (0_1, 'unitary'))_By_2_Ex ... ok
+FieldValues_plt00020_v2_sphere_('c', (0_1, 'unitary'))_By ... ok
+GridValues_plt00020_v2_all_jz ... ok
+ProjectionValues_plt00020_v2_all_jz_0_None ... ok
+ProjectionValues_plt00020_v2_all_jz_0_Ex ... ok
+FieldValues_plt00020_v2_all_jz ... ok
+ProjectionValues_plt00020_v2_sphere_('c', (0_1, 'unitary'))_jz_0_None ... ok
+ProjectionValues_plt00020_v2_sphere_('c', (0_1, 'unitary'))_jz_0_Ex ... ok
+FieldValues_plt00020_v2_sphere_('c', (0_1, 'unitary'))_jz ... ok
+ProjectionValues_plt00020_v2_all_jz_1_None ... ok
+ProjectionValues_plt00020_v2_all_jz_1_Ex ... ok
+FieldValues_plt00020_v2_all_jz ... ok
+ProjectionValues_plt00020_v2_sphere_('c', (0_1, 'unitary'))_jz_1_None ... ok
+ProjectionValues_plt00020_v2_sphere_('c', (0_1, 'unitary'))_jz_1_Ex ... ok
+FieldValues_plt00020_v2_sphere_('c', (0_1, 'unitary'))_jz ... ok
+ProjectionValues_plt00020_v2_all_jz_2_None ... ok
+ProjectionValues_plt00020_v2_all_jz_2_Ex ... ok
+FieldValues_plt00020_v2_all_jz ... ok
+ProjectionValues_plt00020_v2_sphere_('c', (0_1, 'unitary'))_jz_2_None ... ok
+ProjectionValues_plt00020_v2_sphere_('c', (0_1, 'unitary'))_jz_2_Ex ... ok
+FieldValues_plt00020_v2_sphere_('c', (0_1, 'unitary'))_jz ... ok
+GridHierarchy_plt00030_v2_all ... ok
+ParentageRelationships_plt00030_v2_all ... ok
+GridValues_plt00030_v2_all_Ex ... ok
+ProjectionValues_plt00030_v2_all_Ex_0_None ... ok
+ProjectionValues_plt00030_v2_all_Ex_0_Ex ... ok
+FieldValues_plt00030_v2_all_Ex ... ok
+ProjectionValues_plt00030_v2_sphere_('c', (0_1, 'unitary'))_Ex_0_None ... ok
+ProjectionValues_plt00030_v2_sphere_('c', (0_1, 'unitary'))_Ex_0_Ex ... ok
+FieldValues_plt00030_v2_sphere_('c', (0_1, 'unitary'))_Ex ... ok
+ProjectionValues_plt00030_v2_all_Ex_1_None ... ok
+ProjectionValues_plt00030_v2_all_Ex_1_Ex ... ok
+FieldValues_plt00030_v2_all_Ex ... ok
+ProjectionValues_plt00030_v2_sphere_('c', (0_1, 'unitary'))_Ex_1_None ... ok
+ProjectionValues_plt00030_v2_sphere_('c', (0_1, 'unitary'))_Ex_1_Ex ... ok
+FieldValues_plt00030_v2_sphere_('c', (0_1, 'unitary'))_Ex ... ok
+ProjectionValues_plt00030_v2_all_Ex_2_None ... ok
+ProjectionValues_plt00030_v2_all_Ex_2_Ex ... ok
+FieldValues_plt00030_v2_all_Ex ... ok
+ProjectionValues_plt00030_v2_sphere_('c', (0_1, 'unitary'))_Ex_2_None ... ok
+ProjectionValues_plt00030_v2_sphere_('c', (0_1, 'unitary'))_Ex_2_Ex ... ok
+FieldValues_plt00030_v2_sphere_('c', (0_1, 'unitary'))_Ex ... ok
+GridValues_plt00030_v2_all_By ... ok
+ProjectionValues_plt00030_v2_all_By_0_None ... ok
+ProjectionValues_plt00030_v2_all_By_0_Ex ... ok
+FieldValues_plt00030_v2_all_By ... ok
+ProjectionValues_plt00030_v2_sphere_('c', (0_1, 'unitary'))_By_0_None ... ok
+ProjectionValues_plt00030_v2_sphere_('c', (0_1, 'unitary'))_By_0_Ex ... ok
+FieldValues_plt00030_v2_sphere_('c', (0_1, 'unitary'))_By ... ok
+ProjectionValues_plt00030_v2_all_By_1_None ... ok
+ProjectionValues_plt00030_v2_all_By_1_Ex ... ok
+FieldValues_plt00030_v2_all_By ... ok
+ProjectionValues_plt00030_v2_sphere_('c', (0_1, 'unitary'))_By_1_None ... ok
+ProjectionValues_plt00030_v2_sphere_('c', (0_1, 'unitary'))_By_1_Ex ... ok
+FieldValues_plt00030_v2_sphere_('c', (0_1, 'unitary'))_By ... ok
+ProjectionValues_plt00030_v2_all_By_2_None ... ok
+ProjectionValues_plt00030_v2_all_By_2_Ex ... ok
+FieldValues_plt00030_v2_all_By ... ok
+ProjectionValues_plt00030_v2_sphere_('c', (0_1, 'unitary'))_By_2_None ... ok
+ProjectionValues_plt00030_v2_sphere_('c', (0_1, 'unitary'))_By_2_Ex ... ok
+FieldValues_plt00030_v2_sphere_('c', (0_1, 'unitary'))_By ... ok
+GridValues_plt00030_v2_all_jz ... ok
+ProjectionValues_plt00030_v2_all_jz_0_None ... ok
+ProjectionValues_plt00030_v2_all_jz_0_Ex ... ok
+FieldValues_plt00030_v2_all_jz ... ok
+ProjectionValues_plt00030_v2_sphere_('c', (0_1, 'unitary'))_jz_0_None ... ok
+ProjectionValues_plt00030_v2_sphere_('c', (0_1, 'unitary'))_jz_0_Ex ... ok
+FieldValues_plt00030_v2_sphere_('c', (0_1, 'unitary'))_jz ... ok
+ProjectionValues_plt00030_v2_all_jz_1_None ... ok
+ProjectionValues_plt00030_v2_all_jz_1_Ex ... ok
+FieldValues_plt00030_v2_all_jz ... ok
+ProjectionValues_plt00030_v2_sphere_('c', (0_1, 'unitary'))_jz_1_None ... ok
+ProjectionValues_plt00030_v2_sphere_('c', (0_1, 'unitary'))_jz_1_Ex ... ok
+FieldValues_plt00030_v2_sphere_('c', (0_1, 'unitary'))_jz ... ok
+ProjectionValues_plt00030_v2_all_jz_2_None ... ok
+ProjectionValues_plt00030_v2_all_jz_2_Ex ... ok
+FieldValues_plt00030_v2_all_jz ... ok
+ProjectionValues_plt00030_v2_sphere_('c', (0_1, 'unitary'))_jz_2_None ... ok
+ProjectionValues_plt00030_v2_sphere_('c', (0_1, 'unitary'))_jz_2_Ex ... ok
+FieldValues_plt00030_v2_sphere_('c', (0_1, 'unitary'))_jz ... ok
+GridHierarchy_plt03008_all ... ok
+ParentageRelationships_plt03008_all ... ok
+GridValues_plt03008_all_Ex ... ok
+ProjectionValues_plt03008_all_Ex_0_None ... ok
+ProjectionValues_plt03008_all_Ex_0_Ex ... ok
+FieldValues_plt03008_all_Ex ... /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/unyt/array.py:1753: RuntimeWarning: invalid value encountered in true_divide
+  out_arr = func(
+ok
+ProjectionValues_plt03008_sphere_('c', (0_1, 'unitary'))_Ex_0_None ... ok
+ProjectionValues_plt03008_sphere_('c', (0_1, 'unitary'))_Ex_0_Ex ... ok
+FieldValues_plt03008_sphere_('c', (0_1, 'unitary'))_Ex ... ok
+ProjectionValues_plt03008_all_Ex_1_None ... ok
+ProjectionValues_plt03008_all_Ex_1_Ex ... ok
+FieldValues_plt03008_all_Ex ... ok
+ProjectionValues_plt03008_sphere_('c', (0_1, 'unitary'))_Ex_1_None ... ok
+ProjectionValues_plt03008_sphere_('c', (0_1, 'unitary'))_Ex_1_Ex ... ok
+FieldValues_plt03008_sphere_('c', (0_1, 'unitary'))_Ex ... ok
+ProjectionValues_plt03008_all_Ex_2_None ... ok
+ProjectionValues_plt03008_all_Ex_2_Ex ... ok
+FieldValues_plt03008_all_Ex ... ok
+ProjectionValues_plt03008_sphere_('c', (0_1, 'unitary'))_Ex_2_None ... ok
+ProjectionValues_plt03008_sphere_('c', (0_1, 'unitary'))_Ex_2_Ex ... ok
+FieldValues_plt03008_sphere_('c', (0_1, 'unitary'))_Ex ... ok
+GridValues_plt03008_all_By ... ok
+ProjectionValues_plt03008_all_By_0_None ... ok
+ProjectionValues_plt03008_all_By_0_Ex ... ok
+FieldValues_plt03008_all_By ... ok
+ProjectionValues_plt03008_sphere_('c', (0_1, 'unitary'))_By_0_None ... ok
+ProjectionValues_plt03008_sphere_('c', (0_1, 'unitary'))_By_0_Ex ... ok
+FieldValues_plt03008_sphere_('c', (0_1, 'unitary'))_By ... ok
+ProjectionValues_plt03008_all_By_1_None ... ok
+ProjectionValues_plt03008_all_By_1_Ex ... ok
+FieldValues_plt03008_all_By ... ok
+ProjectionValues_plt03008_sphere_('c', (0_1, 'unitary'))_By_1_None ... ok
+ProjectionValues_plt03008_sphere_('c', (0_1, 'unitary'))_By_1_Ex ... ok
+FieldValues_plt03008_sphere_('c', (0_1, 'unitary'))_By ... ok
+ProjectionValues_plt03008_all_By_2_None ... ok
+ProjectionValues_plt03008_all_By_2_Ex ... ok
+FieldValues_plt03008_all_By ... ok
+ProjectionValues_plt03008_sphere_('c', (0_1, 'unitary'))_By_2_None ... ok
+ProjectionValues_plt03008_sphere_('c', (0_1, 'unitary'))_By_2_Ex ... ok
+FieldValues_plt03008_sphere_('c', (0_1, 'unitary'))_By ... ok
+GridValues_plt03008_all_jz ... ok
+ProjectionValues_plt03008_all_jz_0_None ... ok
+ProjectionValues_plt03008_all_jz_0_Ex ... ok
+FieldValues_plt03008_all_jz ... ok
+ProjectionValues_plt03008_sphere_('c', (0_1, 'unitary'))_jz_0_None ... ok
+ProjectionValues_plt03008_sphere_('c', (0_1, 'unitary'))_jz_0_Ex ... ok
+FieldValues_plt03008_sphere_('c', (0_1, 'unitary'))_jz ... ok
+ProjectionValues_plt03008_all_jz_1_None ... ok
+ProjectionValues_plt03008_all_jz_1_Ex ... ok
+FieldValues_plt03008_all_jz ... ok
+ProjectionValues_plt03008_sphere_('c', (0_1, 'unitary'))_jz_1_None ... ok
+ProjectionValues_plt03008_sphere_('c', (0_1, 'unitary'))_jz_1_Ex ... ok
+FieldValues_plt03008_sphere_('c', (0_1, 'unitary'))_jz ... ok
+ProjectionValues_plt03008_all_jz_2_None ... ok
+ProjectionValues_plt03008_all_jz_2_Ex ... ok
+FieldValues_plt03008_all_jz ... ok
+ProjectionValues_plt03008_sphere_('c', (0_1, 'unitary'))_jz_2_None ... ok
+ProjectionValues_plt03008_sphere_('c', (0_1, 'unitary'))_jz_2_Ex ... ok
+FieldValues_plt03008_sphere_('c', (0_1, 'unitary'))_jz ... ok
+GridValues_plt00015_all_('raw', 'Bx') ... ok
+GridValues_plt00015_all_('raw', 'Ey') ... ok
+GridValues_plt00015_all_('raw', 'jz') ... ok
+yt.frontends.boxlib.tests.test_outputs_nose.test_WarpXDataset_2 ... ok
+yt.frontends.boxlib.tests.test_outputs_nose.test_AMReXDataset ... SKIP
+yt.frontends.boxlib.tests.test_outputs_nose.test_CastroDataset_2 ... SKIP
+yt.frontends.boxlib.tests.test_outputs_nose.test_NyxDataset_2 ... SKIP
+yt.frontends.boxlib.tests.test_outputs_nose.test_CastroDataset ... ok
+yt.frontends.boxlib.tests.test_outputs_nose.test_NyxDataset ... ok
+yt.frontends.boxlib.tests.test_outputs_nose.test_OrionDataset ... ok
+yt.frontends.boxlib.tests.test_outputs_nose.test_WarpXDataset ... ok
+yt.frontends.boxlib.tests.test_outputs_nose.test_castro_particle_io ... ok
+yt.frontends.boxlib.tests.test_outputs_nose.test_maestro_parameters ... ok
+yt.frontends.boxlib.tests.test_outputs_nose.test_nyx_no_part ... ok
+yt.frontends.boxlib.tests.test_outputs_nose.test_nyx_particle_io ... ok
+yt.frontends.boxlib.tests.test_outputs_nose.test_units_override ... ok
+yt.frontends.boxlib.tests.test_outputs_nose.test_warpx_particle_io ... ok
+
+======================================================================
+FAIL: GridHierarchy_plt00000_all
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 424, in __call__
+    self.compare(nv, ov)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 761, in compare
+    assert_equal(new_result[k], old_result[k])
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/numpy/testing/_private/utils.py", line 349, in assert_equal
+    return assert_array_equal(actual, desired, err_msg, verbose)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/numpy/testing/_private/utils.py", line 935, in assert_array_equal
+    assert_array_compare(operator.__eq__, x, y, err_msg=err_msg,
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/numpy/testing/_private/utils.py", line 765, in assert_array_compare
+    raise AssertionError(msg)
+AssertionError: 
+Arrays are not equal
+
+(shapes (32, 3), (4, 3) mismatch)
+ x: array([[16,  8,  8],
+       [16,  8,  8],
+       [16,  8,  8],...
+ y: array([[32, 16, 16],
+       [32, 16, 16],
+       [32, 16, 16],
+       [32, 16, 16]], dtype=int32)
+
+----------------------------------------------------------------------
+Ran 489 tests in 100.449s
+
+FAILED (SKIP=3, failures=1)
