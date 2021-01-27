@@ -1,0 +1,231 @@
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The text.latex.preview rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The mathtext.fallback_to_cm rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: Support for setting the 'mathtext.fallback_to_cm' rcParam is deprecated since 3.3 and will be removed two minor releases later; use 'mathtext.fallback : 'cm' instead.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The validate_bool_maybe_none function was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The savefig.jpeg_quality rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The keymap.all_axes rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The animation.avconv_path rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The animation.avconv_args rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+PixelizedProjectionValues_10MpcBox_HartGal_csf_a0_500_d_all_('gas', 'density')_0_None ... ok
+PixelizedProjectionValues_10MpcBox_HartGal_csf_a0_500_d_all_('gas', 'density')_0_density ... ok
+PixelizedProjectionValues_10MpcBox_HartGal_csf_a0_500_d_sphere_('max', (0_1, 'unitary'))_('gas', 'density')_0_None ... ok
+PixelizedProjectionValues_10MpcBox_HartGal_csf_a0_500_d_sphere_('max', (0_1, 'unitary'))_('gas', 'density')_0_density ... ok
+FieldValues_10MpcBox_HartGal_csf_a0_500_d_sphere_('max', (0_1, 'unitary'))_('gas', 'density') ... ok
+PixelizedProjectionValues_10MpcBox_HartGal_csf_a0_500_d_all_('gas', 'density')_1_None ... ok
+PixelizedProjectionValues_10MpcBox_HartGal_csf_a0_500_d_all_('gas', 'density')_1_density ... ok
+PixelizedProjectionValues_10MpcBox_HartGal_csf_a0_500_d_sphere_('max', (0_1, 'unitary'))_('gas', 'density')_1_None ... ok
+PixelizedProjectionValues_10MpcBox_HartGal_csf_a0_500_d_sphere_('max', (0_1, 'unitary'))_('gas', 'density')_1_density ... ok
+FieldValues_10MpcBox_HartGal_csf_a0_500_d_sphere_('max', (0_1, 'unitary'))_('gas', 'density') ... ok
+PixelizedProjectionValues_10MpcBox_HartGal_csf_a0_500_d_all_('gas', 'density')_2_None ... ok
+PixelizedProjectionValues_10MpcBox_HartGal_csf_a0_500_d_all_('gas', 'density')_2_density ... ok
+PixelizedProjectionValues_10MpcBox_HartGal_csf_a0_500_d_sphere_('max', (0_1, 'unitary'))_('gas', 'density')_2_None ... ok
+PixelizedProjectionValues_10MpcBox_HartGal_csf_a0_500_d_sphere_('max', (0_1, 'unitary'))_('gas', 'density')_2_density ... ok
+FieldValues_10MpcBox_HartGal_csf_a0_500_d_sphere_('max', (0_1, 'unitary'))_('gas', 'density') ... ok
+PixelizedProjectionValues_10MpcBox_HartGal_csf_a0_500_d_all_('gas', 'temperature')_0_None ... ok
+PixelizedProjectionValues_10MpcBox_HartGal_csf_a0_500_d_all_('gas', 'temperature')_0_density ... ok
+PixelizedProjectionValues_10MpcBox_HartGal_csf_a0_500_d_sphere_('max', (0_1, 'unitary'))_('gas', 'temperature')_0_None ... ok
+PixelizedProjectionValues_10MpcBox_HartGal_csf_a0_500_d_sphere_('max', (0_1, 'unitary'))_('gas', 'temperature')_0_density ... ok
+FieldValues_10MpcBox_HartGal_csf_a0_500_d_sphere_('max', (0_1, 'unitary'))_('gas', 'temperature') ... ok
+PixelizedProjectionValues_10MpcBox_HartGal_csf_a0_500_d_all_('gas', 'temperature')_1_None ... ok
+PixelizedProjectionValues_10MpcBox_HartGal_csf_a0_500_d_all_('gas', 'temperature')_1_density ... ok
+PixelizedProjectionValues_10MpcBox_HartGal_csf_a0_500_d_sphere_('max', (0_1, 'unitary'))_('gas', 'temperature')_1_None ... ok
+PixelizedProjectionValues_10MpcBox_HartGal_csf_a0_500_d_sphere_('max', (0_1, 'unitary'))_('gas', 'temperature')_1_density ... ok
+FieldValues_10MpcBox_HartGal_csf_a0_500_d_sphere_('max', (0_1, 'unitary'))_('gas', 'temperature') ... ok
+PixelizedProjectionValues_10MpcBox_HartGal_csf_a0_500_d_all_('gas', 'temperature')_2_None ... ok
+PixelizedProjectionValues_10MpcBox_HartGal_csf_a0_500_d_all_('gas', 'temperature')_2_density ... ok
+PixelizedProjectionValues_10MpcBox_HartGal_csf_a0_500_d_sphere_('max', (0_1, 'unitary'))_('gas', 'temperature')_2_None ... ok
+PixelizedProjectionValues_10MpcBox_HartGal_csf_a0_500_d_sphere_('max', (0_1, 'unitary'))_('gas', 'temperature')_2_density ... ok
+FieldValues_10MpcBox_HartGal_csf_a0_500_d_sphere_('max', (0_1, 'unitary'))_('gas', 'temperature') ... ok
+FieldValues_10MpcBox_HartGal_csf_a0_500_d_sphere_('max', (0_1, 'unitary'))_('all', 'particle_mass') ... ERROR
+FieldValues_10MpcBox_HartGal_csf_a0_500_d_sphere_('max', (0_1, 'unitary'))_('all', 'particle_mass') ... ERROR
+FieldValues_10MpcBox_HartGal_csf_a0_500_d_sphere_('max', (0_1, 'unitary'))_('all', 'particle_mass') ... ERROR
+FieldValues_10MpcBox_HartGal_csf_a0_500_d_sphere_('max', (0_1, 'unitary'))_('all', 'particle_position_x') ... ERROR
+FieldValues_10MpcBox_HartGal_csf_a0_500_d_sphere_('max', (0_1, 'unitary'))_('all', 'particle_position_x') ... ERROR
+FieldValues_10MpcBox_HartGal_csf_a0_500_d_sphere_('max', (0_1, 'unitary'))_('all', 'particle_position_x') ... ERROR
+Failure: AssertionError (
+Arrays are not equal
+
+Mismatched elements: 1 / 1 (100%)
+Max absolute difference: 3.05175781e-05
+Max relative difference: 2.03152774e-16
+ x: unyt_quantity(1.502198e+11)
+ y: unyt_quantity(1.502198e+11)) ... FAIL
+yt.frontends.art.tests.test_outputs_nose.test_particle_selection ... SKIP
+yt.frontends.art.tests.test_outputs_nose.test_ARTDataset ... ok
+yt.frontends.art.tests.test_outputs_nose.test_units_override ... ok
+
+======================================================================
+ERROR: FieldValues_10MpcBox_HartGal_csf_a0_500_d_sphere_('max', (0_1, 'unitary'))_('all', 'particle_mass')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 508, in run
+    avg = obj.quantities.weighted_average_quantity(field, weight=weight_field)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 130, in __call__
+    rv = super(WeightedAverageQuantity, self).__call__(fields, weight)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 55, in __call__
+    sto.result = self.process_chunk(ds, *args, **kwargs)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 136, in process_chunk
+    vals = [(data[field] * data[weight]).sum(dtype=np.float64) for field in fields]
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 136, in <listcomp>
+    vals = [(data[field] * data[weight]).sum(dtype=np.float64) for field in fields]
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/unyt/array.py", line 1753, in __array_ufunc__
+    out_arr = func(
+ValueError: operands could not be broadcast together with shapes (742312,) (1999124,) 
+
+======================================================================
+ERROR: FieldValues_10MpcBox_HartGal_csf_a0_500_d_sphere_('max', (0_1, 'unitary'))_('all', 'particle_mass')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 508, in run
+    avg = obj.quantities.weighted_average_quantity(field, weight=weight_field)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 130, in __call__
+    rv = super(WeightedAverageQuantity, self).__call__(fields, weight)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 55, in __call__
+    sto.result = self.process_chunk(ds, *args, **kwargs)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 136, in process_chunk
+    vals = [(data[field] * data[weight]).sum(dtype=np.float64) for field in fields]
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 136, in <listcomp>
+    vals = [(data[field] * data[weight]).sum(dtype=np.float64) for field in fields]
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/unyt/array.py", line 1753, in __array_ufunc__
+    out_arr = func(
+ValueError: operands could not be broadcast together with shapes (742312,) (1999124,) 
+
+======================================================================
+ERROR: FieldValues_10MpcBox_HartGal_csf_a0_500_d_sphere_('max', (0_1, 'unitary'))_('all', 'particle_mass')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 508, in run
+    avg = obj.quantities.weighted_average_quantity(field, weight=weight_field)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 130, in __call__
+    rv = super(WeightedAverageQuantity, self).__call__(fields, weight)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 55, in __call__
+    sto.result = self.process_chunk(ds, *args, **kwargs)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 136, in process_chunk
+    vals = [(data[field] * data[weight]).sum(dtype=np.float64) for field in fields]
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 136, in <listcomp>
+    vals = [(data[field] * data[weight]).sum(dtype=np.float64) for field in fields]
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/unyt/array.py", line 1753, in __array_ufunc__
+    out_arr = func(
+ValueError: operands could not be broadcast together with shapes (742312,) (1999124,) 
+
+======================================================================
+ERROR: FieldValues_10MpcBox_HartGal_csf_a0_500_d_sphere_('max', (0_1, 'unitary'))_('all', 'particle_position_x')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 508, in run
+    avg = obj.quantities.weighted_average_quantity(field, weight=weight_field)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 130, in __call__
+    rv = super(WeightedAverageQuantity, self).__call__(fields, weight)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 55, in __call__
+    sto.result = self.process_chunk(ds, *args, **kwargs)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 136, in process_chunk
+    vals = [(data[field] * data[weight]).sum(dtype=np.float64) for field in fields]
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 136, in <listcomp>
+    vals = [(data[field] * data[weight]).sum(dtype=np.float64) for field in fields]
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/unyt/array.py", line 1753, in __array_ufunc__
+    out_arr = func(
+ValueError: operands could not be broadcast together with shapes (742312,) (1999124,) 
+
+======================================================================
+ERROR: FieldValues_10MpcBox_HartGal_csf_a0_500_d_sphere_('max', (0_1, 'unitary'))_('all', 'particle_position_x')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 508, in run
+    avg = obj.quantities.weighted_average_quantity(field, weight=weight_field)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 130, in __call__
+    rv = super(WeightedAverageQuantity, self).__call__(fields, weight)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 55, in __call__
+    sto.result = self.process_chunk(ds, *args, **kwargs)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 136, in process_chunk
+    vals = [(data[field] * data[weight]).sum(dtype=np.float64) for field in fields]
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 136, in <listcomp>
+    vals = [(data[field] * data[weight]).sum(dtype=np.float64) for field in fields]
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/unyt/array.py", line 1753, in __array_ufunc__
+    out_arr = func(
+ValueError: operands could not be broadcast together with shapes (742312,) (1999124,) 
+
+======================================================================
+ERROR: FieldValues_10MpcBox_HartGal_csf_a0_500_d_sphere_('max', (0_1, 'unitary'))_('all', 'particle_position_x')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 508, in run
+    avg = obj.quantities.weighted_average_quantity(field, weight=weight_field)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 130, in __call__
+    rv = super(WeightedAverageQuantity, self).__call__(fields, weight)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 55, in __call__
+    sto.result = self.process_chunk(ds, *args, **kwargs)
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 136, in process_chunk
+    vals = [(data[field] * data[weight]).sum(dtype=np.float64) for field in fields]
+  File "/home/latitude/code/academic/yt_repo/yt/data_objects/derived_quantities.py", line 136, in <listcomp>
+    vals = [(data[field] * data[weight]).sum(dtype=np.float64) for field in fields]
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/unyt/array.py", line 1753, in __array_ufunc__
+    out_arr = func(
+ValueError: operands could not be broadcast together with shapes (742312,) (1999124,) 
+
+======================================================================
+FAIL: Failure: AssertionError (
+Arrays are not equal
+
+Mismatched elements: 1 / 1 (100%)
+Max absolute difference: 3.05175781e-05
+Max relative difference: 2.03152774e-16
+ x: unyt_quantity(1.502198e+11)
+ y: unyt_quantity(1.502198e+11))
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/failure.py", line 39, in runTest
+    raise self.exc_val.with_traceback(self.tb)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/loader.py", line 252, in generate
+    for test in g():
+  File "/home/latitude/code/academic/yt_repo/yt/frontends/art/tests/test_outputs_nose.py", line 104, in test_d9p
+    assert_equal(ad[("gas", "temperature")].sum(), AnaTotTemp)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/numpy/testing/_private/utils.py", line 349, in assert_equal
+    return assert_array_equal(actual, desired, err_msg, verbose)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/numpy/testing/_private/utils.py", line 935, in assert_array_equal
+    assert_array_compare(operator.__eq__, x, y, err_msg=err_msg,
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/numpy/testing/_private/utils.py", line 846, in assert_array_compare
+    raise AssertionError(msg)
+AssertionError: 
+Arrays are not equal
+
+Mismatched elements: 1 / 1 (100%)
+Max absolute difference: 3.05175781e-05
+Max relative difference: 2.03152774e-16
+ x: unyt_quantity(1.502198e+11)
+ y: unyt_quantity(1.502198e+11)
+
+----------------------------------------------------------------------
+Ran 40 tests in 186.679s
+
+FAILED (SKIP=1, errors=6, failures=1)
