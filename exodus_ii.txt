@@ -1,0 +1,75 @@
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The text.latex.preview rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The mathtext.fallback_to_cm rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: Support for setting the 'mathtext.fallback_to_cm' rcParam is deprecated since 3.3 and will be removed two minor releases later; use 'mathtext.fallback : 'cm' instead.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The validate_bool_maybe_none function was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The savefig.jpeg_quality rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The keymap.all_axes rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The animation.avconv_path rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The animation.avconv_args rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+GenericArray_mps_out_e_all_array_func_12_None ... ERROR
+GenericArray_mps_out_e_all_array_func_12_None ... ERROR
+GenericArray_mps_out_e_all_array_func_12_None ... ERROR
+GenericArray_mps_out_e_all_array_func_12_None ... ERROR
+yt.frontends.exodus_ii.tests.test_outputs_nose.test_gold ... ok
+yt.frontends.exodus_ii.tests.test_outputs_nose.test_out ... ok
+yt.frontends.exodus_ii.tests.test_outputs_nose.test_out002 ... ok
+
+======================================================================
+ERROR: GenericArray_mps_out_e_all_array_func_12_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 997, in run
+    return self.array_func(*args, **kwargs)
+TypeError: array_func() argument after * must be an iterable, not int
+
+======================================================================
+ERROR: GenericArray_mps_out_e_all_array_func_12_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 997, in run
+    return self.array_func(*args, **kwargs)
+TypeError: array_func() argument after * must be an iterable, not int
+
+======================================================================
+ERROR: GenericArray_mps_out_e_all_array_func_12_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 997, in run
+    return self.array_func(*args, **kwargs)
+TypeError: array_func() argument after * must be an iterable, not int
+
+======================================================================
+ERROR: GenericArray_mps_out_e_all_array_func_12_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 388, in __call__
+    nv = self.run()
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 997, in run
+    return self.array_func(*args, **kwargs)
+TypeError: array_func() argument after * must be an iterable, not int
+
+----------------------------------------------------------------------
+Ran 7 tests in 1.422s
+
+FAILED (errors=4)
