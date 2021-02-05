@@ -1,0 +1,4 @@
+RESULTS UNEQUAL: FieldValues_halos_0_0_bin_all_particle_position_x	test_fields_r1[x-rockstar_halos/halos_0.0.bin]
+RESULTS UNEQUAL: FieldValues_halos_0_0_bin_all_particle_position_y	test_fields_r1[y-rockstar_halos/halos_0.0.bin]
+RESULTS UNEQUAL: FieldValues_halos_0_0_bin_all_particle_position_z	test_fields_r1[z-rockstar_halos/halos_0.0.bin]
+RESULTS UNEQUAL: FieldValues_halos_0_0_bin_all_particle_mass	test_fields_r1[mass-rockstar_halos/halos_0.0.bin]
