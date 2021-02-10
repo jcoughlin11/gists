@@ -1,0 +1,33 @@
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The text.latex.preview rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The mathtext.fallback_to_cm rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: Support for setting the 'mathtext.fallback_to_cm' rcParam is deprecated since 3.3 and will be removed two minor releases later; use 'mathtext.fallback : 'cm' instead.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The validate_bool_maybe_none function was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The savefig.jpeg_quality rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The keymap.all_axes rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The animation.avconv_path rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The animation.avconv_args rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+ExtractConnectedSets_UniformGridData_all ... ERROR
+
+======================================================================
+ERROR: ExtractConnectedSets_UniformGridData_all
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 424, in __call__
+    self.compare(nv, ov)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/level_sets_tests.py", line 36, in compare
+    err_msg = f"Size and/or mass of connected sets do not agree for {self.ds_fn}."
+AttributeError: 'ExtractConnectedSetsTest' object has no attribute 'ds_fn'
+
+----------------------------------------------------------------------
+Ran 1 test in 1.050s
+
+FAILED (errors=1)
