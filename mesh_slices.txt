@@ -1,0 +1,626 @@
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The text.latex.preview rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The mathtext.fallback_to_cm rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: Support for setting the 'mathtext.fallback_to_cm' rcParam is deprecated since 3.3 and will be removed two minor releases later; use 'mathtext.fallback : 'cm' instead.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The validate_bool_maybe_none function was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The savefig.jpeg_quality rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The keymap.all_axes rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The animation.avconv_path rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+In /home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle: 
+The animation.avconv_args rcparam was deprecated in Matplotlib 3.3 and will be removed two minor releases later.
+GenericImage_AMRGridData_all_slice_stream_Density_0_None_None ... ok
+GenericImage_UnstructuredMeshData_all_slice_all_elem_0_None_None ... FAIL
+GenericImage_UnstructuredMeshData_all_slice_all_elem_1_None_None ... FAIL
+GenericImage_UnstructuredMeshData_all_slice_all_elem_2_None_None ... FAIL
+GenericImage_UnstructuredMeshData_all_slice_all_test_0_None_None ... FAIL
+GenericImage_UnstructuredMeshData_all_slice_all_test_1_None_None ... FAIL
+GenericImage_UnstructuredMeshData_all_slice_all_test_2_None_None ... FAIL
+GenericImage_UnstructuredMeshData_all_slice_connect1_elem_0_None_None ... FAIL
+GenericImage_UnstructuredMeshData_all_slice_connect1_elem_1_None_None ... FAIL
+GenericImage_UnstructuredMeshData_all_slice_connect1_elem_2_None_None ... FAIL
+GenericImage_UnstructuredMeshData_all_slice_connect1_test_0_None_None ... FAIL
+GenericImage_UnstructuredMeshData_all_slice_connect1_test_1_None_None ... FAIL
+GenericImage_UnstructuredMeshData_all_slice_connect1_test_2_None_None ... FAIL
+GenericImage_UnstructuredMeshData_all_slice_all_elem_0_None_None ... ok
+GenericImage_UnstructuredMeshData_all_slice_all_elem_1_None_None ... ok
+GenericImage_UnstructuredMeshData_all_slice_all_elem_2_None_None ... ok
+GenericImage_UnstructuredMeshData_all_slice_all_test_0_None_None ... ok
+GenericImage_UnstructuredMeshData_all_slice_all_test_1_None_None ... ok
+GenericImage_UnstructuredMeshData_all_slice_all_test_2_None_None ... ok
+GenericImage_UnstructuredMeshData_all_slice_connect1_elem_0_None_None ... ok
+GenericImage_UnstructuredMeshData_all_slice_connect1_elem_1_None_None ... ok
+GenericImage_UnstructuredMeshData_all_slice_connect1_elem_2_None_None ... ok
+GenericImage_UnstructuredMeshData_all_slice_connect1_test_0_None_None ... ok
+GenericImage_UnstructuredMeshData_all_slice_connect1_test_1_None_None ... ok
+GenericImage_UnstructuredMeshData_all_slice_connect1_test_2_None_None ... ok
+yt.visualization.tests.test_mesh_slices_nose.test_perfect_element_intersection ... ok
+
+======================================================================
+FAIL: GenericImage_UnstructuredMeshData_all_slice_all_elem_0_None_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 424, in __call__
+    self.compare(nv, ov)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 1057, in compare
+    compare_image_lists(new_result, old_result, self.decimals)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 818, in compare_image_lists
+    results = compare_images(fns[0], fns[1], 10 ** (-decimals))
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/testing/compare.py", line 411, in compare_images
+    rms = calculate_rms(expected_image, actual_image)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/testing/compare.py", line 318, in calculate_rms
+    raise ImageComparisonFailure(
+matplotlib.testing.exceptions.ImageComparisonFailure: Image sizes do not match expected size: (521, 1085, 3) actual size (919, 1085, 3)
+-------------------- >> begin captured logging << --------------------
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarLogLocator object at 0x7f80f960dbe0>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarLogLocator object at 0x7f80f960dbe0> on colorbar
+matplotlib.colorbar: DEBUG: Setting pcolormesh
+matplotlib.ticker: DEBUG: vmin 0.0035286841437394134 vmax 0.9993444788932391
+matplotlib.ticker: DEBUG: ticklocs array([1.e-04, 1.e-03, 1.e-02, 1.e-01, 1.e+00, 1.e+01])
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f89db700>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f89db700> on colorbar
+matplotlib.colorbar: DEBUG: Setting pcolormesh
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f89db700>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f89db700> on colorbar
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 45631
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: GenericImage_UnstructuredMeshData_all_slice_all_elem_1_None_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 424, in __call__
+    self.compare(nv, ov)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 1057, in compare
+    compare_image_lists(new_result, old_result, self.decimals)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 818, in compare_image_lists
+    results = compare_images(fns[0], fns[1], 10 ** (-decimals))
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/testing/compare.py", line 411, in compare_images
+    rms = calculate_rms(expected_image, actual_image)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/testing/compare.py", line 318, in calculate_rms
+    raise ImageComparisonFailure(
+matplotlib.testing.exceptions.ImageComparisonFailure: Image sizes do not match expected size: (1720, 1085, 3) actual size (922, 1085, 3)
+-------------------- >> begin captured logging << --------------------
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarLogLocator object at 0x7f80f9529760>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarLogLocator object at 0x7f80f9529760> on colorbar
+matplotlib.colorbar: DEBUG: Setting pcolormesh
+matplotlib.ticker: DEBUG: vmin 0.0023830462267607766 vmax 0.9993074112673043
+matplotlib.ticker: DEBUG: ticklocs array([1.e-04, 1.e-03, 1.e-02, 1.e-01, 1.e+00, 1.e+01])
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f947c280>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f947c280> on colorbar
+matplotlib.colorbar: DEBUG: Setting pcolormesh
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f947c280>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f947c280> on colorbar
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: GenericImage_UnstructuredMeshData_all_slice_all_elem_2_None_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 424, in __call__
+    self.compare(nv, ov)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 1057, in compare
+    compare_image_lists(new_result, old_result, self.decimals)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 829, in compare_image_lists
+    assert_equal(results, None, results)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/numpy/testing/_private/utils.py", line 381, in assert_equal
+    raise AssertionError(msg)
+AssertionError: 
+Items are not equal:
+Error: Image files did not match.
+  RMS Value: 59.78357413913771
+  Expected:  
+    /tmp/tmpa3s4jf1m.png
+  Actual:    
+    /tmp/tmpuc1y0qjj.png
+  Difference:
+    /tmp/tmpuc1y0qjj-failed-diff.png
+  Tolerance: 
+    1e-12
+ ACTUAL: 'Error: Image files did not match.\n  RMS Value: 59.78357413913771\n  Expected:  \n    /tmp/tmpa3s4jf1m.png\n  Actual:    \n    /tmp/tmpuc1y0qjj.png\n  Difference:\n    /tmp/tmpuc1y0qjj-failed-diff.png\n  Tolerance: \n    1e-12'
+ DESIRED: None
+-------------------- >> begin captured logging << --------------------
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarLogLocator object at 0x7f80f9268550>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarLogLocator object at 0x7f80f9268550> on colorbar
+matplotlib.colorbar: DEBUG: Setting pcolormesh
+matplotlib.ticker: DEBUG: vmin 0.0008355911717002895 vmax 0.999873602398129
+matplotlib.ticker: DEBUG: ticklocs array([1.e-05, 1.e-04, 1.e-03, 1.e-02, 1.e-01, 1.e+00, 1.e+01])
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f9258f40>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f9258f40> on colorbar
+matplotlib.colorbar: DEBUG: Setting pcolormesh
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f9258f40>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f9258f40> on colorbar
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: GenericImage_UnstructuredMeshData_all_slice_all_test_0_None_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 424, in __call__
+    self.compare(nv, ov)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 1057, in compare
+    compare_image_lists(new_result, old_result, self.decimals)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 818, in compare_image_lists
+    results = compare_images(fns[0], fns[1], 10 ** (-decimals))
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/testing/compare.py", line 411, in compare_images
+    rms = calculate_rms(expected_image, actual_image)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/testing/compare.py", line 318, in calculate_rms
+    raise ImageComparisonFailure(
+matplotlib.testing.exceptions.ImageComparisonFailure: Image sizes do not match expected size: (521, 1085, 3) actual size (919, 1085, 3)
+-------------------- >> begin captured logging << --------------------
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarLogLocator object at 0x7f80f9566f40>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarLogLocator object at 0x7f80f9566f40> on colorbar
+matplotlib.colorbar: DEBUG: Setting pcolormesh
+matplotlib.ticker: DEBUG: vmin 0.0012918428870084505 vmax 0.9999958058546439
+matplotlib.ticker: DEBUG: ticklocs array([1.e-04, 1.e-03, 1.e-02, 1.e-01, 1.e+00, 1.e+01])
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f93a85b0>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f93a85b0> on colorbar
+matplotlib.colorbar: DEBUG: Setting pcolormesh
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f93a85b0>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f93a85b0> on colorbar
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: GenericImage_UnstructuredMeshData_all_slice_all_test_1_None_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 424, in __call__
+    self.compare(nv, ov)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 1057, in compare
+    compare_image_lists(new_result, old_result, self.decimals)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 818, in compare_image_lists
+    results = compare_images(fns[0], fns[1], 10 ** (-decimals))
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/testing/compare.py", line 411, in compare_images
+    rms = calculate_rms(expected_image, actual_image)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/testing/compare.py", line 318, in calculate_rms
+    raise ImageComparisonFailure(
+matplotlib.testing.exceptions.ImageComparisonFailure: Image sizes do not match expected size: (1720, 1085, 3) actual size (922, 1085, 3)
+-------------------- >> begin captured logging << --------------------
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarLogLocator object at 0x7f80f92c1df0>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarLogLocator object at 0x7f80f92c1df0> on colorbar
+matplotlib.colorbar: DEBUG: Setting pcolormesh
+matplotlib.ticker: DEBUG: vmin 0.0010893290351540218 vmax 0.9999990371822579
+matplotlib.ticker: DEBUG: ticklocs array([1.e-04, 1.e-03, 1.e-02, 1.e-01, 1.e+00, 1.e+01])
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f8a59820>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f8a59820> on colorbar
+matplotlib.colorbar: DEBUG: Setting pcolormesh
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f8a59820>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f8a59820> on colorbar
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: GenericImage_UnstructuredMeshData_all_slice_all_test_2_None_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 424, in __call__
+    self.compare(nv, ov)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 1057, in compare
+    compare_image_lists(new_result, old_result, self.decimals)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 829, in compare_image_lists
+    assert_equal(results, None, results)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/numpy/testing/_private/utils.py", line 381, in assert_equal
+    raise AssertionError(msg)
+AssertionError: 
+Items are not equal:
+Error: Image files did not match.
+  RMS Value: 30.195243894317436
+  Expected:  
+    /tmp/tmpuuh2h_ad.png
+  Actual:    
+    /tmp/tmpcqlu6luh.png
+  Difference:
+    /tmp/tmpcqlu6luh-failed-diff.png
+  Tolerance: 
+    1e-12
+ ACTUAL: 'Error: Image files did not match.\n  RMS Value: 30.195243894317436\n  Expected:  \n    /tmp/tmpuuh2h_ad.png\n  Actual:    \n    /tmp/tmpcqlu6luh.png\n  Difference:\n    /tmp/tmpcqlu6luh-failed-diff.png\n  Tolerance: \n    1e-12'
+ DESIRED: None
+-------------------- >> begin captured logging << --------------------
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarLogLocator object at 0x7f80f866cbb0>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarLogLocator object at 0x7f80f866cbb0> on colorbar
+matplotlib.colorbar: DEBUG: Setting pcolormesh
+matplotlib.ticker: DEBUG: vmin 0.003163973273742334 vmax 0.9999978672329354
+matplotlib.ticker: DEBUG: ticklocs array([1.e-04, 1.e-03, 1.e-02, 1.e-01, 1.e+00, 1.e+01])
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f8642a60>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f8642a60> on colorbar
+matplotlib.colorbar: DEBUG: Setting pcolormesh
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f8642a60>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f8642a60> on colorbar
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: GenericImage_UnstructuredMeshData_all_slice_connect1_elem_0_None_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 424, in __call__
+    self.compare(nv, ov)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 1057, in compare
+    compare_image_lists(new_result, old_result, self.decimals)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 818, in compare_image_lists
+    results = compare_images(fns[0], fns[1], 10 ** (-decimals))
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/testing/compare.py", line 411, in compare_images
+    rms = calculate_rms(expected_image, actual_image)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/testing/compare.py", line 318, in calculate_rms
+    raise ImageComparisonFailure(
+matplotlib.testing.exceptions.ImageComparisonFailure: Image sizes do not match expected size: (521, 1085, 3) actual size (919, 1085, 3)
+-------------------- >> begin captured logging << --------------------
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarLogLocator object at 0x7f80f95af220>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarLogLocator object at 0x7f80f95af220> on colorbar
+matplotlib.colorbar: DEBUG: Setting pcolormesh
+matplotlib.ticker: DEBUG: vmin 0.0035286841437394134 vmax 0.9993444788932391
+matplotlib.ticker: DEBUG: ticklocs array([1.e-04, 1.e-03, 1.e-02, 1.e-01, 1.e+00, 1.e+01])
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f8105678f40>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f8105678f40> on colorbar
+matplotlib.colorbar: DEBUG: Setting pcolormesh
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f8105678f40>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f8105678f40> on colorbar
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 45631
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: GenericImage_UnstructuredMeshData_all_slice_connect1_elem_1_None_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 424, in __call__
+    self.compare(nv, ov)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 1057, in compare
+    compare_image_lists(new_result, old_result, self.decimals)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 818, in compare_image_lists
+    results = compare_images(fns[0], fns[1], 10 ** (-decimals))
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/testing/compare.py", line 411, in compare_images
+    rms = calculate_rms(expected_image, actual_image)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/testing/compare.py", line 318, in calculate_rms
+    raise ImageComparisonFailure(
+matplotlib.testing.exceptions.ImageComparisonFailure: Image sizes do not match expected size: (1720, 1085, 3) actual size (922, 1085, 3)
+-------------------- >> begin captured logging << --------------------
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarLogLocator object at 0x7f80f92e7100>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarLogLocator object at 0x7f80f92e7100> on colorbar
+matplotlib.colorbar: DEBUG: Setting pcolormesh
+matplotlib.ticker: DEBUG: vmin 0.0023830462267607766 vmax 0.9993074112673043
+matplotlib.ticker: DEBUG: ticklocs array([1.e-04, 1.e-03, 1.e-02, 1.e-01, 1.e+00, 1.e+01])
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f92c1c40>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f92c1c40> on colorbar
+matplotlib.colorbar: DEBUG: Setting pcolormesh
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f92c1c40>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f92c1c40> on colorbar
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: GenericImage_UnstructuredMeshData_all_slice_connect1_elem_2_None_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 424, in __call__
+    self.compare(nv, ov)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 1057, in compare
+    compare_image_lists(new_result, old_result, self.decimals)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 829, in compare_image_lists
+    assert_equal(results, None, results)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/numpy/testing/_private/utils.py", line 381, in assert_equal
+    raise AssertionError(msg)
+AssertionError: 
+Items are not equal:
+Error: Image files did not match.
+  RMS Value: 59.78357413913771
+  Expected:  
+    /tmp/tmpzyqvnb12.png
+  Actual:    
+    /tmp/tmptsn1rgdn.png
+  Difference:
+    /tmp/tmptsn1rgdn-failed-diff.png
+  Tolerance: 
+    1e-12
+ ACTUAL: 'Error: Image files did not match.\n  RMS Value: 59.78357413913771\n  Expected:  \n    /tmp/tmpzyqvnb12.png\n  Actual:    \n    /tmp/tmptsn1rgdn.png\n  Difference:\n    /tmp/tmptsn1rgdn-failed-diff.png\n  Tolerance: \n    1e-12'
+ DESIRED: None
+-------------------- >> begin captured logging << --------------------
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarLogLocator object at 0x7f80f951b040>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarLogLocator object at 0x7f80f951b040> on colorbar
+matplotlib.colorbar: DEBUG: Setting pcolormesh
+matplotlib.ticker: DEBUG: vmin 0.0008355911717002895 vmax 0.999873602398129
+matplotlib.ticker: DEBUG: ticklocs array([1.e-05, 1.e-04, 1.e-03, 1.e-02, 1.e-01, 1.e+00, 1.e+01])
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f96228e0>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f96228e0> on colorbar
+matplotlib.colorbar: DEBUG: Setting pcolormesh
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f96228e0>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f96228e0> on colorbar
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: GenericImage_UnstructuredMeshData_all_slice_connect1_test_0_None_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 424, in __call__
+    self.compare(nv, ov)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 1057, in compare
+    compare_image_lists(new_result, old_result, self.decimals)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 818, in compare_image_lists
+    results = compare_images(fns[0], fns[1], 10 ** (-decimals))
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/testing/compare.py", line 411, in compare_images
+    rms = calculate_rms(expected_image, actual_image)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/testing/compare.py", line 318, in calculate_rms
+    raise ImageComparisonFailure(
+matplotlib.testing.exceptions.ImageComparisonFailure: Image sizes do not match expected size: (521, 1085, 3) actual size (919, 1085, 3)
+-------------------- >> begin captured logging << --------------------
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarLogLocator object at 0x7f80f89ce310>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarLogLocator object at 0x7f80f89ce310> on colorbar
+matplotlib.colorbar: DEBUG: Setting pcolormesh
+matplotlib.ticker: DEBUG: vmin 0.0012918428870084505 vmax 0.9999958058546439
+matplotlib.ticker: DEBUG: ticklocs array([1.e-04, 1.e-03, 1.e-02, 1.e-01, 1.e+00, 1.e+01])
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f9264460>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f9264460> on colorbar
+matplotlib.colorbar: DEBUG: Setting pcolormesh
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f9264460>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f9264460> on colorbar
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: GenericImage_UnstructuredMeshData_all_slice_connect1_test_1_None_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 424, in __call__
+    self.compare(nv, ov)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 1057, in compare
+    compare_image_lists(new_result, old_result, self.decimals)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 818, in compare_image_lists
+    results = compare_images(fns[0], fns[1], 10 ** (-decimals))
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/testing/compare.py", line 411, in compare_images
+    rms = calculate_rms(expected_image, actual_image)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/matplotlib/testing/compare.py", line 318, in calculate_rms
+    raise ImageComparisonFailure(
+matplotlib.testing.exceptions.ImageComparisonFailure: Image sizes do not match expected size: (1720, 1085, 3) actual size (922, 1085, 3)
+-------------------- >> begin captured logging << --------------------
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarLogLocator object at 0x7f80f8589fd0>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarLogLocator object at 0x7f80f8589fd0> on colorbar
+matplotlib.colorbar: DEBUG: Setting pcolormesh
+matplotlib.ticker: DEBUG: vmin 0.0010893290351540218 vmax 0.9999990371822579
+matplotlib.ticker: DEBUG: ticklocs array([1.e-04, 1.e-03, 1.e-02, 1.e-01, 1.e+00, 1.e+01])
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f93df100>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f93df100> on colorbar
+matplotlib.colorbar: DEBUG: Setting pcolormesh
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f93df100>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f93df100> on colorbar
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+--------------------- >> end captured logging << ---------------------
+
+======================================================================
+FAIL: GenericImage_UnstructuredMeshData_all_slice_connect1_test_2_None_None
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/nose/case.py", line 198, in runTest
+    self.test(*self.arg)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 424, in __call__
+    self.compare(nv, ov)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 1057, in compare
+    compare_image_lists(new_result, old_result, self.decimals)
+  File "/home/latitude/code/academic/yt_repo/yt/utilities/answer_testing/framework.py", line 829, in compare_image_lists
+    assert_equal(results, None, results)
+  File "/home/latitude/.local/miniconda3/envs/ytenv/lib/python3.8/site-packages/numpy/testing/_private/utils.py", line 381, in assert_equal
+    raise AssertionError(msg)
+AssertionError: 
+Items are not equal:
+Error: Image files did not match.
+  RMS Value: 30.195243894317436
+  Expected:  
+    /tmp/tmpi6j5zua3.png
+  Actual:    
+    /tmp/tmpdz7zpav3.png
+  Difference:
+    /tmp/tmpdz7zpav3-failed-diff.png
+  Tolerance: 
+    1e-12
+ ACTUAL: 'Error: Image files did not match.\n  RMS Value: 30.195243894317436\n  Expected:  \n    /tmp/tmpi6j5zua3.png\n  Actual:    \n    /tmp/tmpdz7zpav3.png\n  Difference:\n    /tmp/tmpdz7zpav3-failed-diff.png\n  Tolerance: \n    1e-12'
+ DESIRED: None
+-------------------- >> begin captured logging << --------------------
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarLogLocator object at 0x7f80f77ca250>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarLogLocator object at 0x7f80f77ca250> on colorbar
+matplotlib.colorbar: DEBUG: Setting pcolormesh
+matplotlib.ticker: DEBUG: vmin 0.003163973273742334 vmax 0.9999978672329354
+matplotlib.ticker: DEBUG: ticklocs array([1.e-04, 1.e-03, 1.e-02, 1.e-01, 1.e+00, 1.e+01])
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f94ddc70>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f94ddc70> on colorbar
+matplotlib.colorbar: DEBUG: Setting pcolormesh
+matplotlib.colorbar: DEBUG: locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f94ddc70>
+matplotlib.colorbar: DEBUG: Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f80f94ddc70> on colorbar
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+PIL.PngImagePlugin: DEBUG: STREAM b'IHDR' 16 13
+PIL.PngImagePlugin: DEBUG: STREAM b'tEXt' 41 57
+PIL.PngImagePlugin: DEBUG: STREAM b'pHYs' 110 9
+PIL.PngImagePlugin: DEBUG: STREAM b'IDAT' 131 65536
+--------------------- >> end captured logging << ---------------------
+
+----------------------------------------------------------------------
+Ran 26 tests in 36.188s
+
+FAILED (failures=12)
